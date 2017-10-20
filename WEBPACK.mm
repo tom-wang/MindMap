@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1504268235342" ID="ID_1509301110" MODIFIED="1504268242618" TEXT="WEBPACK">
-<node CREATED="1504268387092" FOLDED="true" ID="ID_1491315764" MODIFIED="1504971860489" POSITION="right" TEXT="&#x6982;&#x5ff5;">
+<node CREATED="1504268387092" ID="ID_1491315764" MODIFIED="1508471863035" POSITION="right" TEXT="&#x6982;&#x5ff5;">
 <node CREATED="1504268409736" ID="ID_767008834" MODIFIED="1504268451364" TEXT="&#x5165;&#x53e3;&#xff08;Entry&#xff09;&#xff1a;&#x521b;&#x5efa;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x6240;&#x6709;&#x4f9d;&#x8d56;&#x56fe;&#x7684;&#x8d77;&#x70b9;"/>
 <node CREATED="1504268494861" ID="ID_1882002291" MODIFIED="1504268528192" TEXT="&#x51fa;&#x53e3;&#xff08;Output&#xff09;&#xff1a;&#x63cf;&#x8ff0;&#x5982;&#x4f55;&#x5904;&#x7406;&#x5f52;&#x6863;&#x540e;&#x7684;&#x4ee3;&#x7801;"/>
 <node CREATED="1504268575066" ID="ID_1880959429" MODIFIED="1504268894183" TEXT="&#x52a0;&#x8f7d;&#x5668;&#xff08;Loader&#xff09;&#xff1a;webpack&#x53ea;&#x7406;&#x89e3;Javascript&#xff0c;&#x56e0;&#x6b64;&#x5176;&#x4ed6;&#x7c7b;&#x578b;&#x6587;&#x4ef6;&#x52a0;&#x5165;&#x4f9d;&#x8d56;&#x65f6;&#xff0c;&#x9700;&#x8981;&#x501f;&#x52a9;loader&#x5c06;&#x5176;&#x8f6c;&#x6362;&#x4e3a;&#x53ef;&#x7406;&#x89e3;&#x7684;&#x6a21;&#x5757;"/>
@@ -1691,7 +1691,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504972061061" FOLDED="true" ID="ID_1536379514" MODIFIED="1505206538718" POSITION="right" TEXT="&#x5e38;&#x7528;Plugin">
+<node CREATED="1504972061061" FOLDED="true" ID="ID_1536379514" MODIFIED="1508480540515" POSITION="right" TEXT="&#x5e38;&#x7528;Plugin">
 <node CREATED="1505120054288" ID="ID_1324137279" MODIFIED="1505193523638">
 <richcontent TYPE="NODE"><html>
   <head>
