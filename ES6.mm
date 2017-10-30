@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1506343665802" ID="ID_683136024" MODIFIED="1506343671208" TEXT="ES6">
-<node CREATED="1506344278960" FOLDED="true" ID="ID_1955356079" MODIFIED="1508074898150" POSITION="right" TEXT="Promise">
+<node CREATED="1506344278960" ID="ID_1955356079" MODIFIED="1508748997287" POSITION="right" TEXT="Promise">
 <node CREATED="1506344652578" ID="ID_655152306" MODIFIED="1506344659140">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -631,8 +631,7 @@
       &#19978;&#38754;&#20195;&#30721;&#20013;&#65292;setTimeout(fn, 0)&#22312;&#19979;&#19968;&#36718;&#8220;&#20107;&#20214;&#24490;&#29615;&#8221;&#24320;&#22987;&#26102;&#25191;&#34892;&#65292;Promise.resolve()&#22312;&#26412;&#36718;&#8220;&#20107;&#20214;&#24490;&#29615;&#8221;&#32467;&#26463;&#26102;&#25191;&#34892;&#65292;console.log('one')&#21017;&#26159;&#31435;&#21363;&#25191;&#34892;&#65292;&#22240;&#27492;&#26368;&#20808;&#36755;&#20986;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1506394827066" ID="ID_1756657684" MODIFIED="1506394848697">
 <richcontent TYPE="NODE"><html>
@@ -704,8 +703,7 @@
       &#19978;&#38754;&#20195;&#30721;&#20013;&#65292;Promise.reject&#26041;&#27861;&#30340;&#21442;&#25968;&#26159;&#19968;&#20010;thenable&#23545;&#35937;&#65292;&#25191;&#34892;&#20197;&#21518;&#65292;&#21518;&#38754;catch&#26041;&#27861;&#30340;&#21442;&#25968;&#19981;&#26159;reject&#25243;&#20986;&#30340;&#8220;&#20986;&#38169;&#20102;&#8221;&#36825;&#20010;&#23383;&#31526;&#20018;&#65292;&#32780;&#26159;thenable&#23545;&#35937;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1506395772272" ID="ID_524581060" MODIFIED="1506395784265">
 <richcontent TYPE="NODE"><html>
@@ -741,11 +739,10 @@
       &#19978;&#38754;&#20195;&#30721;&#20013;&#65292;&#20989;&#25968;f&#26159;&#21516;&#27493;&#30340;&#65292;&#20294;&#26159;&#29992; Promise &#21253;&#35013;&#20102;&#20197;&#21518;&#65292;&#23601;&#21464;&#25104;&#24322;&#27493;&#25191;&#34892;&#20102;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1508074892808" ID="ID_405316166" MODIFIED="1508074894575" POSITION="right" TEXT="Proxy">
+<node CREATED="1508074892808" FOLDED="true" ID="ID_405316166" MODIFIED="1508748995913" POSITION="right" TEXT="Proxy">
 <node CREATED="1508075459311" ID="ID_1052342204" MODIFIED="1508126392251">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -855,8 +852,7 @@
       &#65288;13&#65289;&#12289;construct(target, args)&#65306;&#25318;&#25130; Proxy &#23454;&#20363;&#20316;&#20026;&#26500;&#36896;&#20989;&#25968;&#35843;&#29992;&#30340;&#25805;&#20316;&#65292;&#27604;&#22914;new proxy(...args)&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508126468921" ID="ID_143052524" MODIFIED="1508158406579">
 <richcontent TYPE="NODE"><html>
@@ -1000,8 +996,7 @@
       4&#12289;has()
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

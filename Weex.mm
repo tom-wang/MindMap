@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1505364396927" ID="ID_1893483461" MODIFIED="1505364404869" TEXT="Weex">
-<node CREATED="1505364638568" ID="ID_330741542" MODIFIED="1505364642330" POSITION="right" TEXT="&#x6559;&#x7a0b;">
+<node CREATED="1505364638568" FOLDED="true" ID="ID_330741542" MODIFIED="1508990574173" POSITION="right" TEXT="&#x6559;&#x7a0b;">
 <node CREATED="1505364645282" ID="ID_776588269" MODIFIED="1505365984338">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -78,11 +78,10 @@
       &#36319;&#32456;&#31471;&#30456;&#20851;&#30340;&#30693;&#35782;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1505367234479" ID="ID_602925403" MODIFIED="1505367236443" POSITION="left" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1505367234479" FOLDED="true" ID="ID_602925403" MODIFIED="1509020233946" POSITION="left" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1505366338661" ID="ID_1841909554" MODIFIED="1505367250515">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -123,8 +122,7 @@
       6&#12289;&#27983;&#35272;&#22120;&#28210;&#26579;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1505792483437" ID="ID_1106617982" MODIFIED="1505792976505">
 <richcontent TYPE="NODE"><html>
@@ -142,8 +140,7 @@
       2&#12289;&#25552;&#20379;&#20102;&#19968;&#22871;&#31616;&#21270;&#29256;&#30340;DOM API
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1505792979395" ID="ID_1993109135" MODIFIED="1505798208214">
 <richcontent TYPE="NODE"><html>
@@ -167,8 +164,7 @@
       https://github.com/weexteam/weex-hackernews
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1505802394753" ID="ID_1901945798" MODIFIED="1505807623746">
 <richcontent TYPE="NODE"><html>
@@ -261,11 +257,10 @@
       &#21487;&#20197;&#20351;&#29992;&#23427;&#22312;IntelliJ IDEA&#65292;WebStorm&#31561;&#19968;&#31995;&#21015;IDE&#19978;&#23545;Weex DSL&#36827;&#34892;&#35821;&#27861;&#39640;&#20142;&#65292;&#33258;&#21160;&#34917;&#20840;&#21644;&#38169;&#35823;&#26816;&#26597;&#31561;&#25805;&#20316;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1505801722865" ID="ID_542850094" MODIFIED="1505801725720" POSITION="right" TEXT="&#x624b;&#x518c;">
+<node CREATED="1505801722865" FOLDED="true" ID="ID_542850094" MODIFIED="1508990572396" POSITION="right" TEXT="&#x624b;&#x518c;">
 <node CREATED="1505809100412" ID="ID_1347298164" MODIFIED="1505811503902">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -447,8 +442,7 @@
       &#19981;&#33021;&#20351;&#29992;&lt;router-link&gt;&#32452;&#20214;&#65292;&#38656;&#20351;&#29992;&#32534;&#31243;&#24335;&#23548;&#33322;&#65288;&#20063;&#23601;&#26159;&#35843;&#29992;push&#12289;go&#31561;&#31561;&#26041;&#27861;&#20570;&#23548;&#33322;&#65289;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
