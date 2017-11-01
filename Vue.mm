@@ -31,8 +31,7 @@
       &#24378;&#28872;&#24314;&#35758;&#36716;&#21270;&#24037;&#20316;&#25918;&#21040;&#32534;&#35793;&#38454;&#27573;&#65292;&#36825;&#26679;&#19968;&#26469;&#22806;&#32593;&#20195;&#30721;&#23601;&#19981;&#38656;&#35201;&#21253;&#21547;compiler&#30340;&#20195;&#30721;&#20102;&#65292;&#32780;&#19988;&#20174;&#25991;&#26412;&#36716;&#25104;render&#20989;&#25968;&#20063;&#26159;&#38656;&#35201;&#19981;&#23569;&#24615;&#33021;&#28040;&#32791;&#30340;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508996114145" ID="ID_1390267252" MODIFIED="1508996198850">
 <richcontent TYPE="NODE"><html>
@@ -50,8 +49,7 @@
       this&#25351;&#21521;vm
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1505206810070" FOLDED="true" ID="ID_1584918885" MODIFIED="1508999425883" POSITION="right" TEXT="&#x57fa;&#x7840;">
@@ -2250,8 +2248,8 @@
 </node>
 </node>
 <node CREATED="1508895867208" ID="ID_560752827" MODIFIED="1508895871603" POSITION="right" TEXT="&#x6587;&#x7ae0;&#x8f93;&#x51fa;">
-<node CREATED="1508895878252" ID="ID_1575741938" MODIFIED="1508895883202" TEXT="&#x63a2;&#x79d8;VUE SSR">
-<node CREATED="1508895892031" ID="ID_1507524357" MODIFIED="1508908413133" TEXT="&#x6574;&#x4f53;&#x4ecb;&#x7ecd;">
+<node CREATED="1508895878252" ID="ID_1575741938" MODIFIED="1509460427957" TEXT="&#x63a2;&#x79d8;VUE SSR">
+<node CREATED="1508895892031" ID="ID_1507524357" MODIFIED="1509367275431" TEXT="&#x6574;&#x4f53;&#x4ecb;&#x7ecd;">
 <node CREATED="1508908700972" ID="ID_1593665790" MODIFIED="1508924531559">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2271,8 +2269,7 @@
       3&#12289;&#25972;&#20010;SSR&#30340;&#36807;&#31243;&#65292;data-server-rendered=&quot;true&quot;&#65292;hydrate
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508934071103" ID="ID_227627117" MODIFIED="1508934076135" TEXT="&#x6574;&#x4f53;&#x4ecb;&#x7ecd;"/>
 <node CREATED="1508896028598" ID="ID_1782034681" MODIFIED="1508908507825">
@@ -2288,8 +2285,7 @@
       1&#12289;&lt;!--vue-ssr-outlet--&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508908451538" ID="ID_260897248" MODIFIED="1509009631819">
 <richcontent TYPE="NODE"><html>
@@ -2316,8 +2312,7 @@
       5&#12289;renderToString vs renderToStream
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508909303044" ID="ID_1994647778" MODIFIED="1508995480006">
 <richcontent TYPE="NODE"><html>
@@ -2338,14 +2333,82 @@
       2&#12289;&#38169;&#35823;&#23450;&#20301;&#24590;&#20040;&#21150;&#65311;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1508909311930" ID="ID_143971599" MODIFIED="1508909316463" TEXT="clientManifest"/>
 <node CREATED="1508932028542" ID="ID_1215069558" MODIFIED="1509008385083" TEXT="ssrContext"/>
 <node CREATED="1508910749226" ID="ID_1501583351" MODIFIED="1508910777676" TEXT="&#x4e0e;&#x670d;&#x52a1;&#x5668;&#x6846;&#x67b6;&#x7ed3;&#x5408;&#x4f7f;&#x7528;"/>
 <node CREATED="1509008399078" ID="ID_988528249" MODIFIED="1509008405677" TEXT="&#x5b9e;&#x4f8b;"/>
 </node>
+<node CREATED="1509464775220" ID="ID_971293030" MODIFIED="1509464780165" TEXT="serverBundle">
+<node CREATED="1509496877295" ID="ID_1394697298" MODIFIED="1509497043072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#21069;&#35328;
+    </p>
+    <p>
+      1&#12289;serverBundle&#26159;&#30001;webpack&#25554;&#20214;VueSSRServerPlugin&#32534;&#35793;&#20986;&#26469;&#30340;
+    </p>
+    <p>
+      2&#12289;createBundleRenderer&#24213;&#23618;&#20381;&#36182;createRenderer&#65292;&#35201;&#24378;&#35843;&#30340;&#26159;&#20182;&#20204;&#30340;renderToString&#26041;&#27861;&#31614;&#21517;&#26159;&#19981;&#19968;&#26679;&#30340;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1509496785765" ID="ID_794764534" MODIFIED="1509496792685" TEXT="&#x957f;&#x4ec0;&#x4e48;&#x6837;&#x5b50;&#xff1f;"/>
+<node CREATED="1509461237981" ID="ID_1806254018" MODIFIED="1509464557254">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#20837;&#21475;
+    </p>
+    <p>
+      1&#12289;export&#19968;&#20010;&#20989;&#25968;
+    </p>
+    <p>
+      2&#12289;&#20989;&#25968;&#36820;&#22238;app&#25110;&#32773;&#36820;&#22238;promise&#65292;promise&#30830;&#20445;resolve&#20986;&#19968;&#20010;app
+    </p>
+    <p>
+      3&#12289;&#30452;&#25509;&#23548;&#20986;&#19968;&#20010;app&#23454;&#20363;&#65292;runInNewContext&#24517;&#39035;&#35774;&#32622;&#20026;true
+    </p>
+    <p>
+      4&#12289;&#20195;&#30721;&#26159;&#35831;&#27714;&#20043;&#38388;&#20849;&#20139;&#30340;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1509461336305" ID="ID_1168745147" MODIFIED="1509497355833" TEXT="&#x7ec4;&#x4ef6;&#x751f;&#x547d;&#x5468;&#x671f;"/>
+</node>
+<node CREATED="1509367285348" ID="ID_1128172830" MODIFIED="1509461186437" TEXT="template&#x7ec4;&#x88c5;">
+<node CREATED="1509462640323" ID="ID_287309414" MODIFIED="1509462665960" TEXT="&#x91cd;&#x70b9;&#x8bb2;bundle&#xff0c;&#x56e0;&#x4e3a;&#x5927;&#x90e8;&#x5206;&#x60c5;&#x51b5;&#x4e0b;&#x662f;&#x8fd9;&#x4e48;&#x7528;&#x7684;"/>
+<node CREATED="1509464475890" ID="ID_443599774" MODIFIED="1509464480151" TEXT="&#x6a21;&#x677f;&#x62c6;&#x89e3;"/>
+<node CREATED="1509461214191" ID="ID_632918273" MODIFIED="1509464116774">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      context.state
+    </p>
+    <p>
+      &#29992;&#20110;&#26381;&#21153;&#22120;&#31471;&#12289;&#27983;&#35272;&#22120;&#31471;&#20849;&#29992;&#29366;&#24577;&#65292;&#19968;&#33324;&#37197;&#21512;vuex&#20351;&#29992;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1509367312079" ID="ID_1970458198" MODIFIED="1509367331572" TEXT="clientManifest&#x3001;serverBundle"/>
+<node CREATED="1509461223201" ID="ID_260368835" MODIFIED="1509461227293" TEXT="&#x5b9e;&#x8df5;"/>
 </node>
 </node>
 <node CREATED="1505443603218" FOLDED="true" ID="ID_448947761" MODIFIED="1508915804870" POSITION="right" TEXT="&#x89c4;&#x6a21;&#x5316;">
@@ -3120,7 +3183,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1505446096581" FOLDED="true" ID="ID_516146726" MODIFIED="1507819594246" POSITION="right">
+<node CREATED="1505446096581" FOLDED="true" ID="ID_516146726" MODIFIED="1509453325934" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4332,6 +4395,26 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1509453328061" FOLDED="true" ID="ID_307950183" MODIFIED="1509460392106" POSITION="right" TEXT="vue-router&#x6e90;&#x7801;">
+<node CREATED="1509453873163" ID="ID_962357691" MODIFIED="1509453882737" TEXT="&#x4e24;&#x4e2a;&#x7ec4;&#x4ef6;&#xff1a;view&#x548c;link"/>
+<node CREATED="1509454094210" ID="ID_1690800259" MODIFIED="1509454409318">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#27169;&#24335;&#65306;hash&#12289;history&#12289;abstract
+    </p>
+    <p>
+      1&#12289;&#38750;&#27983;&#35272;&#22120;&#29615;&#22659;&#24378;&#21046;&#20351;&#29992;abstract&#27169;&#24335;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1509455218412" ID="ID_1235428772" MODIFIED="1509455227401" TEXT="$router&#x3001;$route&#x5c5e;&#x6027;"/>
+</node>
 <node CREATED="1505469154982" FOLDED="true" ID="ID_153598163" MODIFIED="1508999437105" POSITION="right" TEXT="vuex">
 <node CREATED="1505573391073" ID="ID_814505144" MODIFIED="1505573513873">
 <richcontent TYPE="NODE"><html>
@@ -5347,11 +5430,10 @@
       4&#12289;ssr&#22686;&#21152;shouldPrefetch&#36873;&#39033;&#65292;&#31867;&#20284;shouldPreload
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1506180053719" FOLDED="true" ID="ID_1600784989" MODIFIED="1508898648322" POSITION="left" TEXT="SSR&#xff1a;&#xff08;&#x6bd4;&#x8f83;&#x65e9;&#x652f;&#x6301;&#xff0c;2.3&#x6709;&#x5927;&#x53d8;&#x66f4;&#xff0c;&#x6bd4;&#x5982;&#x5355;&#x72ec;&#x7684;&#x6307;&#x5f15;&#xff0c;serverBundle&#x66f4;&#x591a;&#x9009;&#x9879;&#xff09;">
+<node CREATED="1506180053719" FOLDED="true" ID="ID_1600784989" MODIFIED="1509453315470" POSITION="left" TEXT="SSR&#xff1a;&#xff08;&#x6bd4;&#x8f83;&#x65e9;&#x652f;&#x6301;&#xff0c;2.3&#x6709;&#x5927;&#x53d8;&#x66f4;&#xff0c;&#x6bd4;&#x5982;&#x5355;&#x72ec;&#x7684;&#x6307;&#x5f15;&#xff0c;serverBundle&#x66f4;&#x591a;&#x9009;&#x9879;&#xff09;">
 <node CREATED="1506180194687" ID="ID_101624429" MODIFIED="1506180230074">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6046,8 +6128,7 @@
       &#35201;&#20174; *.vue &#25991;&#20214;&#20013;&#25552;&#21462; CSS&#65292;&#21487;&#20197;&#20351;&#29992; vue-loader &#30340; extractCSS &#36873;&#39033;&#65288;&#38656;&#35201; vue-loader 12.0.0+&#65289;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1507548008289" ID="ID_754273811" MODIFIED="1507548972813">
 <richcontent TYPE="NODE"><html>
@@ -6132,7 +6213,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1507819445018" FOLDED="true" ID="ID_930661043" MODIFIED="1508995486808" POSITION="left">
+<node CREATED="1507819445018" ID="ID_930661043" MODIFIED="1509460568935" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6143,7 +6224,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1508023709022" ID="ID_342836309" MODIFIED="1508895585898">
+<node CREATED="1508023709022" ID="ID_342836309" MODIFIED="1509460706588">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6198,12 +6279,6 @@
       runInNewContext&#30340;&#24615;&#33021;&#35201;&#24046;&#24456;&#22810;
     </p>
     <p>
-      10&#12289;&#20026;&#20160;&#20040;root&#32452;&#20214;&#20013;&#35775;&#38382;&#19981;&#21040;ssrContext&#65292;&#20294;&#26159;&#26679;&#24335;&#21487;&#20197;&#27491;&#30830;&#22788;&#29702;
-    </p>
-    <p>
-      root&#33410;&#28857;&#27809;&#26377;vnode.ssrContext&#23646;&#24615;
-    </p>
-    <p>
       11&#12289;&#26381;&#21153;&#31471;&#30452;&#20986;&#20869;&#23481;&#30340;&#27493;&#39588;&#32454;&#33410;&#26159;&#24590;&#26679;&#30340;&#65311;
     </p>
     <p>
@@ -6242,12 +6317,15 @@
     <p>
       12&#12289;&#20351;&#29992;bundle&#26377;&#20160;&#20040;&#22909;&#22788;&#65311;&#19981;&#20351;&#29992;&#21487;&#20197;&#22043;&#65311;
     </p>
+    <p>
+      &#21487;&#20197;&#19981;&#20351;&#29992;
+    </p>
   </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1508598981781" ID="ID_1985459240" MODIFIED="1509074863514" POSITION="left" TEXT="VueSSRClientPlugin">
+<node CREATED="1508598981781" FOLDED="true" ID="ID_1985459240" MODIFIED="1509367337133" POSITION="left" TEXT="VueSSRClientPlugin">
 <node CREATED="1508599113441" ID="ID_874495559" MODIFIED="1508629028951">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6282,11 +6360,10 @@
       });
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1508629678648" FOLDED="true" ID="ID_1340388827" MODIFIED="1509074862078" POSITION="left" TEXT="VueSSRServerPlugin">
+<node CREATED="1508629678648" ID="ID_1340388827" MODIFIED="1509464751695" POSITION="left" TEXT="VueSSRServerPlugin">
 <node CREATED="1508629694249" ID="ID_273045873" MODIFIED="1508909526367">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6327,8 +6404,7 @@
       });
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1508847726737" ID="ID_1527988849" MODIFIED="1508847728914" POSITION="left" TEXT="Nuxt.js"/>
