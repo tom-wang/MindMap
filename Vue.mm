@@ -2387,7 +2387,8 @@
 </node>
 <node CREATED="1509461336305" ID="ID_1168745147" MODIFIED="1509497355833" TEXT="&#x7ec4;&#x4ef6;&#x751f;&#x547d;&#x5468;&#x671f;"/>
 </node>
-<node CREATED="1509367285348" FOLDED="true" ID="ID_1128172830" MODIFIED="1509615279475" TEXT="template&#x7ec4;&#x88c5;">
+<node CREATED="1509635593294" ID="ID_1185616784" MODIFIED="1509635600860" TEXT="clientManifest"/>
+<node CREATED="1509367285348" ID="ID_1128172830" MODIFIED="1509635602811" TEXT="template&#x7ec4;&#x88c5;">
 <node CREATED="1509462640323" ID="ID_287309414" MODIFIED="1509462665960" TEXT="&#x91cd;&#x70b9;&#x8bb2;bundle&#xff0c;&#x56e0;&#x4e3a;&#x5927;&#x90e8;&#x5206;&#x60c5;&#x51b5;&#x4e0b;&#x662f;&#x8fd9;&#x4e48;&#x7528;&#x7684;"/>
 <node CREATED="1509464475890" ID="ID_443599774" MODIFIED="1509464480151" TEXT="&#x6a21;&#x677f;&#x62c6;&#x89e3;"/>
 <node CREATED="1509461214191" ID="ID_632918273" MODIFIED="1509464116774">
@@ -2408,7 +2409,10 @@
 </node>
 </node>
 <node CREATED="1509367312079" ID="ID_1970458198" MODIFIED="1509367331572" TEXT="clientManifest&#x3001;serverBundle"/>
-<node CREATED="1509461223201" ID="ID_260368835" MODIFIED="1509461227293" TEXT="&#x5b9e;&#x8df5;"/>
+<node CREATED="1509461223201" ID="ID_260368835" MODIFIED="1509461227293" TEXT="&#x5b9e;&#x8df5;">
+<node CREATED="1509635330016" ID="ID_1844873656" MODIFIED="1509635350640" TEXT="&#x5f00;&#x542f;runInNewContext&#x6027;&#x80fd;&#x95ee;&#x9898;"/>
+<node CREATED="1509635356659" ID="ID_1076838977" MODIFIED="1509635374770" TEXT="&#x5b9e;&#x8df5;&#xff1a;&#x5f02;&#x6b65;&#x5165;&#x53e3;&#x5207;&#x6362;"/>
+</node>
 </node>
 </node>
 <node CREATED="1505443603218" FOLDED="true" ID="ID_448947761" MODIFIED="1508915804870" POSITION="right" TEXT="&#x89c4;&#x6a21;&#x5316;">
@@ -4395,7 +4399,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1509453328061" ID="ID_307950183" MODIFIED="1509615342323" POSITION="right" TEXT="vue-router&#x6e90;&#x7801;">
+<node CREATED="1509453328061" FOLDED="true" ID="ID_307950183" MODIFIED="1509809686335" POSITION="right" TEXT="vue-router&#x6e90;&#x7801;">
 <node CREATED="1509453873163" ID="ID_962357691" MODIFIED="1509453882737" TEXT="&#x4e24;&#x4e2a;&#x7ec4;&#x4ef6;&#xff1a;view&#x548c;link"/>
 <node CREATED="1509454094210" ID="ID_1690800259" MODIFIED="1509454409318">
 <richcontent TYPE="NODE"><html>
@@ -4413,7 +4417,25 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1509455218412" ID="ID_1235428772" MODIFIED="1509455227401" TEXT="$router&#x3001;$route&#x5c5e;&#x6027;"/>
+<node CREATED="1509455218412" ID="ID_1235428772" MODIFIED="1509626123504">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#32452;&#20214;&#30340;$router&#12289;$route&#23646;&#24615;
+    </p>
+    <p>
+      $router&#23646;&#24615;&#35775;&#38382;&#24403;&#21069;&#30340;VueRouter&#23545;&#35937;
+    </p>
+    <p>
+      $route&#23646;&#24615;&#35775;&#38382;&#24403;&#21069;&#30340;&#36335;&#30001;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1509615352603" ID="ID_717798694" MODIFIED="1509615827600">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4437,6 +4459,56 @@
     </p>
     <p>
       routes
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1509626273669" ID="ID_1492962094" MODIFIED="1509809616597">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      router&#30340;&#23646;&#24615;
+    </p>
+    <p>
+      1&#12289;currentRoute&#65306;&#24403;&#21069;&#36335;&#30001;&#23545;&#24212;&#30340;&#36335;&#30001;&#20449;&#24687;&#23545;&#35937;
+    </p>
+    <p>
+      2&#12289;ready
+    </p>
+    <p>
+      3&#12289;app&#65306;&#37197;&#32622;&#20102;router&#30340;Vue&#26681;&#23454;&#20363;
+    </p>
+    <p>
+      4&#12289;mode&#65306;&#36335;&#30001;&#20351;&#29992;&#30340;&#27169;&#24335;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1509632183545" ID="ID_1516639993" MODIFIED="1509803452562">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      router&#30340;&#26041;&#27861;
+    </p>
+    <p>
+      1&#12289;push(url, onComplete, onAbort)
+    </p>
+    <p>
+      2&#12289;onReady
+    </p>
+    <p>
+      3&#12289;getMatchedComponents
+    </p>
+    <p>
+      4&#12289;match(raw: RawLocation, current?: Route, redirectedFrom?: Location)
     </p>
   </body>
 </html>
@@ -5461,7 +5533,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1506180053719" FOLDED="true" ID="ID_1600784989" MODIFIED="1509453315470" POSITION="left" TEXT="SSR&#xff1a;&#xff08;&#x6bd4;&#x8f83;&#x65e9;&#x652f;&#x6301;&#xff0c;2.3&#x6709;&#x5927;&#x53d8;&#x66f4;&#xff0c;&#x6bd4;&#x5982;&#x5355;&#x72ec;&#x7684;&#x6307;&#x5f15;&#xff0c;serverBundle&#x66f4;&#x591a;&#x9009;&#x9879;&#xff09;">
+<node CREATED="1506180053719" FOLDED="true" ID="ID_1600784989" MODIFIED="1509635567518" POSITION="left" TEXT="SSR&#xff1a;&#xff08;&#x6bd4;&#x8f83;&#x65e9;&#x652f;&#x6301;&#xff0c;2.3&#x6709;&#x5927;&#x53d8;&#x66f4;&#xff0c;&#x6bd4;&#x5982;&#x5355;&#x72ec;&#x7684;&#x6307;&#x5f15;&#xff0c;serverBundle&#x66f4;&#x591a;&#x9009;&#x9879;&#xff09;">
 <node CREATED="1506180194687" ID="ID_101624429" MODIFIED="1506180230074">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6241,7 +6313,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1507819445018" ID="ID_930661043" MODIFIED="1509460568935" POSITION="left">
+<node CREATED="1507819445018" FOLDED="true" ID="ID_930661043" MODIFIED="1509635312800" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6391,7 +6463,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1508629678648" ID="ID_1340388827" MODIFIED="1509464751695" POSITION="left" TEXT="VueSSRServerPlugin">
+<node CREATED="1508629678648" FOLDED="true" ID="ID_1340388827" MODIFIED="1509635532255" POSITION="left" TEXT="VueSSRServerPlugin">
 <node CREATED="1508629694249" ID="ID_273045873" MODIFIED="1508909526367">
 <richcontent TYPE="NODE"><html>
   <head>
