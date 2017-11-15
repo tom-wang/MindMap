@@ -342,38 +342,62 @@
 </node>
 </node>
 <node CREATED="1510749370983" ID="ID_1968330959" MODIFIED="1510749377432" POSITION="left" TEXT="&#x5947;&#x6280;&#x6deb;&#x5de7;">
-<node CREATED="1510749386349" ID="ID_825614643" MODIFIED="1510750345341">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &#24443;&#24213;&#21024;&#38500;&#25991;&#20214;&#65288;&#21382;&#21490;&#25552;&#20132;&#20449;&#24687;&#19968;&#36215;&#21024;&#38500;&#65289;
-    </p>
-    <p>
-      1&#12289;https://help.github.com/articles/removing-sensitive-data-from-a-repository/
-    </p>
-    <p>
-      2&#12289;git filter-branch
-    </p>
-    <p>
+<node CREATED="1510749386349" ID="ID_825614643" MODIFIED="1510751816095">
+<richcontent TYPE="NODE">&lt;html&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      &#x5f7b;&#x5e95;&#x5220;&#x9664;&#x6587;&#x4ef6;&#xff08;&#x5386;&#x53f2;&#x63d0;&#x4ea4;&#x4fe1;&#x606f;&#x4e00;&#x8d77;&#x5220;&#x9664;&#xff09;
+    &lt;/p&gt;
+    &lt;p&gt;
+      1&#x3001;https://help.github.com/articles/removing-sensitive-data-from-a-repository/
+    &lt;/p&gt;
+    &lt;p&gt;
+      2&#x3001;git filter-branch
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;0&#xff09;&#x3001;&#x91cd;&#x8981;&#x91cd;&#x8981;&#x91cd;&#x8981;&#xff1a;&#x5148;&#x5907;&#x4efd;
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;1&#xff09;&#x3001;&#x7b2c;&#x4e00;&#x6b65;&#x5220;&#x9664;&#x6240;&#x6709;&#x8bb0;&#x5f55;
+    &lt;/p&gt;
+    &lt;p&gt;
       git filter-branch --force --index-filter \
-    </p>
-    <p>
-      'git rm --cached --ignore-unmatch &#25216;&#26415;&#31449;&#28857;&#24314;&#35774;.mm' \
-    </p>
-    <p>
+    &lt;/p&gt;
+    &lt;p&gt;
+      'git rm --cached --ignore-unmatch &#x6280;&#x672f;&#x7ad9;&#x70b9;&#x5efa;&#x8bbe;.mm' \
+    &lt;/p&gt;
+    &lt;p&gt;
       --prune-empty --tag-name-filter cat -- --all
-    </p>
-    <p>
-      &#27880;&#24847;&#65292;&#22914;&#26524;&#36825;&#20010;&#25991;&#20214;&#26377;&#31227;&#21160;&#36807;&#25110;&#32773;&#37325;&#21629;&#21517;&#36807;&#65292;&#37027;&#20040;&#22312;&#31227;&#21160;&#25110;&#32773;&#37325;&#21629;&#21517;&#20043;&#21069;&#30340;&#36335;&#24452;&#19978;&#20063;&#38656;&#35201;&#25191;&#34892;&#36825;&#20010;&#21629;&#20196;
-    </p>
-    <p>
-      &#23558;&#19981;&#33021;&#25552;&#20132;&#30340;&#25991;&#20214;&#21152;&#20837;.gitignore
-    </p>
-  </body>
-</html>
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;2&#xff09;&#x3001;&#x7b2c;&#x4e8c;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      git push origin --force --all
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;3&#xff09;&#x3001;&#x7b2c;&#x4e09;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      git push origin --force --tags
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;4&#xff09;&#x3001;&#x7b2c;&#x56db;&#x6b65;&#xff0c;&#x544a;&#x8bc9;&#x4f60;&#x7684;&#x5408;&#x4f5c;&#x8005;rebase&#xff08;&#x6ce8;&#x610f;&#x4e0d;&#x662f;merge&#xff09;
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#x6ce8;&#x610f;&#xff0c;&#x5982;&#x679c;&#x8fd9;&#x4e2a;&#x6587;&#x4ef6;&#x6709;&#x79fb;&#x52a8;&#x8fc7;&#x6216;&#x8005;&#x91cd;&#x547d;&#x540d;&#x8fc7;&#xff0c;&#x90a3;&#x4e48;&#x5728;&#x79fb;&#x52a8;&#x6216;&#x8005;&#x91cd;&#x547d;&#x540d;&#x4e4b;&#x524d;&#x7684;&#x8def;&#x5f84;&#x4e0a;&#x4e5f;&#x9700;&#x8981;&#x6267;&#x884c;&#x8fd9;&#x4e2a;&#x547d;&#x4ee4;
+    &lt;/p&gt;
+    &lt;p&gt;
+      3&#x3001;&#x4f7f;&#x7528;BFG &lt;content ename=&quot;content&quot;&gt;Repo-Cleaner
+    &lt;/p&gt;
+    &lt;p&gt;
+      4&#x3001;&#x5176;&#x4ed6;
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;1&#xff09;&#x3001;&#x5c06;&#x4e0d;&#x80fd;&#x63d0;&#x4ea4;&#x7684;&#x6587;&#x4ef6;&#x52a0;&#x5165;.gitignore
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
 </richcontent>
 </node>
 </node>
