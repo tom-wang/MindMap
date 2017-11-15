@@ -342,7 +342,7 @@
 </node>
 </node>
 <node CREATED="1510749370983" ID="ID_1968330959" MODIFIED="1510749377432" POSITION="left" TEXT="&#x5947;&#x6280;&#x6deb;&#x5de7;">
-<node CREATED="1510749386349" ID="ID_825614643" MODIFIED="1510751816095">
+<node CREATED="1510749386349" ID="ID_825614643" MODIFIED="1510752669284">
 <richcontent TYPE="NODE">&lt;html&gt;
   &lt;body&gt;
     &lt;p&gt;
@@ -389,6 +389,33 @@
     &lt;/p&gt;
     &lt;p&gt;
       3&#x3001;&#x4f7f;&#x7528;BFG &lt;content ename=&quot;content&quot;&gt;Repo-Cleaner
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;1&#xff09;&#x3001;&#x7b2c;&#x4e00;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      git clone --mirror git://example.com/some-big-repo.git
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;2&#xff09;&#x3001;&#x7b2c;&#x4e8c;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      java -jar bfg.jar --delete-files id_{dsa,rsa} my-repo.git
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;3&#xff09;&#x3001;&#x7b2c;&#x4e09;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      cd some-big-repo.git 
+    &lt;/p&gt;
+    &lt;p&gt;
+      git reflog expire --expire=now --all &amp;amp;&amp;amp; git gc --prune=now --aggressive
+    &lt;/p&gt;
+    &lt;p&gt;
+      &#xff08;4&#xff09;&#x3001;&#x7b2c;&#x56db;&#x6b65;
+    &lt;/p&gt;
+    &lt;p&gt;
+      git push
     &lt;/p&gt;
     &lt;p&gt;
       4&#x3001;&#x5176;&#x4ed6;
