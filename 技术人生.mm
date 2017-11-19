@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1509096362295" ID="ID_1201275124" MODIFIED="1510540661314" TEXT="&#x6280;&#x672f;&#x4eba;&#x751f;">
-<node CREATED="1509096469675" FOLDED="true" ID="ID_1759229542" MODIFIED="1510562326336" POSITION="right" TEXT="chrome&#x6d4f;&#x89c8;&#x5668;&#x7248;&#x672c;&#x7279;&#x6027;">
+<node CREATED="1509096362295" ID="ID_1201275124" MODIFIED="1510799356580" TEXT="&#x6280;&#x672f;&#x4eba;&#x751f;">
+<node CREATED="1509096469675" FOLDED="true" ID="ID_1759229542" MODIFIED="1510834460146" POSITION="right" TEXT="chrome&#x6d4f;&#x89c8;&#x5668;&#x7248;&#x672c;&#x7279;&#x6027;">
 <node CREATED="1509340303913" ID="ID_1436783535" MODIFIED="1509341372606">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -59,8 +59,7 @@
       2&#12289;fs.realpathSync.native&#21644;fs.realpath.native
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1510641931099" ID="ID_518206527" MODIFIED="1510708509951">
 <richcontent TYPE="NODE"><html>
@@ -78,8 +77,72 @@
       2&#12289;&#25903;&#25345;103 Early Hints&#29366;&#24577;&#30721;
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1510799403617" ID="ID_1312072089" MODIFIED="1510799406190" POSITION="right" TEXT="npm">
+<node CREATED="1510799412252" ID="ID_1855343102" MODIFIED="1510801972459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      npx
+    </p>
+    <p>
+      1&#12289;npm@5.2.0&#24320;&#22987;&#25552;&#20379;
+    </p>
+    <p>
+      2&#12289;npm run
+    </p>
+    <p>
+      &#27604;&#22914;&#25105;&#22312;node_modules/.bin/&#30446;&#24405;&#19979;&#25918;&#32622;&#19968;&#20010;tom&#21629;&#20196;&#65292;&#24182;&#19988;&#25226;&#23427;&#37197;&#32622;&#22312;package.json&#30340;scripts&#37197;&#32622;&#20013;&#65292;&#20197;&#19979;&#25191;&#34892;&#30340;&#34892;&#20026;&#26159;&#19981;&#19968;&#26679;&#30340;
+    </p>
+    <p>
+      npm run tom -a -b --aaa=1 --bbb=2
+    </p>
+    <p>
+      npm run tom -- -a -b --aaa=1 --bbb=2
+    </p>
+    <p>
+      &#31532;&#19968;&#34892;-a&#12289;-b&#12289;--aaa&#12289;--bbb&#19981;&#20250;&#20256;&#36882;&#32473;tom&#65292;&#31532;&#20108;&#34892;&#21487;&#20197;
+    </p>
+    <p>
+      3&#12289;npx&#21487;&#20197;&#22312;&#19981;&#23450;&#20041;scripts&#30340;&#24773;&#20917;&#19979;&#35843;&#29992;&#26412;&#22320;&#30340;&#21629;&#20196;
+    </p>
+    <p>
+      4&#12289;&#21487;&#20197;&#19968;&#27425;&#24615;&#20351;&#29992;&#19968;&#20010;npm&#24211;&#65292;&#27604;&#22914;create-react-app
+    </p>
+    <p>
+      npx create-react-app my-app
+    </p>
+  </body>
 </html>
 </richcontent>
+</node>
+</node>
+<node CREATED="1510892642970" ID="ID_770552882" MODIFIED="1510892645418" POSITION="right" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;">
+<node CREATED="1510892648556" ID="ID_1213860705" MODIFIED="1510892650586" TEXT="Mac">
+<node CREATED="1510892654128" ID="ID_1069297119" MODIFIED="1510892707018">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mac &#20351;&#29992; tar &#21387;&#32553;&#29983;&#25104; &quot;._&quot; &#25991;&#20214;&#30340;&#35299;&#20915;&#21150;&#27861;
+    </p>
+    <p>
+      COPYFILE_DISABLE=1 tar -cvf html.tar.gz html
+    </p>
+    <p>
+      https://www.fengzifz.com/2017/03/20/Mac-tar-files/
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1509096491187" FOLDED="true" ID="ID_1504059824" MODIFIED="1509936799875" POSITION="left" TEXT="PWA&#xff08;Progressive Web Apps&#xff09;">
@@ -1423,7 +1486,7 @@
 <node CREATED="1510053900864" ID="ID_896096420" MODIFIED="1510053902467" TEXT="AES"/>
 <node CREATED="1510054012786" ID="ID_2337327" MODIFIED="1510054014449" TEXT="DES"/>
 </node>
-<node CREATED="1510275429528" FOLDED="true" ID="ID_1874656365" MODIFIED="1510302606258" POSITION="left" TEXT="Benchmark&#x65b9;&#x6cd5;">
+<node CREATED="1510275429528" FOLDED="true" ID="ID_1874656365" MODIFIED="1510834958004" POSITION="left" TEXT="Benchmark&#x65b9;&#x6cd5;">
 <node CREATED="1510276096413" ID="ID_818435731" MODIFIED="1510276100549" TEXT="Benchmark.js">
 <node CREATED="1510276745488" ID="ID_1609861776" MODIFIED="1510299907782">
 <richcontent TYPE="NODE"><html>
@@ -1556,7 +1619,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1510540642242" FOLDED="true" ID="ID_879492510" MODIFIED="1510544656230" POSITION="left" TEXT="DO&#x5206;&#x79bb;">
+<node CREATED="1510540642242" FOLDED="true" ID="ID_879492510" MODIFIED="1510834964313" POSITION="left" TEXT="DO&#x5206;&#x79bb;">
 <node CREATED="1510541810685" ID="ID_1464450593" MODIFIED="1510542158372">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1576,7 +1639,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510540651161" FOLDED="true" ID="ID_458587132" MODIFIED="1510544655294" POSITION="left" TEXT="DevOps">
+<node CREATED="1510540651161" FOLDED="true" ID="ID_458587132" MODIFIED="1510834966281" POSITION="left" TEXT="DevOps">
 <node CREATED="1510542437083" ID="ID_1675016691" MODIFIED="1510543972570">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1591,7 +1654,7 @@
 </node>
 <node CREATED="1510543977650" ID="ID_1017862574" MODIFIED="1510543980434" TEXT="Hudson"/>
 </node>
-<node CREATED="1510671641745" ID="ID_977964964" MODIFIED="1510671644725" POSITION="left" TEXT="HTTP2">
+<node CREATED="1510671641745" FOLDED="true" ID="ID_977964964" MODIFIED="1510799361450" POSITION="left" TEXT="HTTP2">
 <node CREATED="1510672956857" ID="ID_1252652511" MODIFIED="1510672962211" TEXT="&#x5934;&#x90e8;&#x538b;&#x7f29;&#x7b97;&#x6cd5;HPACK"/>
 <node CREATED="1510673871815" ID="ID_1643662859" MODIFIED="1510673880448" TEXT="HTTP1.X pipeline"/>
 <node CREATED="1510673068660" ID="ID_1396417199" MODIFIED="1510673103319">
@@ -1616,8 +1679,7 @@
       HTTP/2 &#28040;&#24687;&#22836;&#30340;&#21387;&#32553;&#31639;&#27861;&#37319;&#29992; HPACK&#65292;&#32780;&#38750; SPDY &#37319;&#29992;&#30340; DELEFT
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1510673140091" ID="ID_1653206274" MODIFIED="1510673533532">
 <richcontent TYPE="NODE"><html>
@@ -1644,8 +1706,7 @@
       HTTP/2 &#20027;&#35201;&#26159; HTTP/1.x &#22312;&#24213;&#23618;&#20256;&#36755;&#26426;&#21046;&#19978;&#30340;&#23436;&#20840;&#37325;&#26500;&#65292;HTTP/2 &#26159;&#22522;&#26412;&#20860;&#23481; HTTP/1.x &#30340;&#35821;&#20041;&#30340;&#65288;&#35814;&#32454;&#20860;&#23481;&#24615;&#35828;&#26126;&#35831;&#25139; &#36825;&#37324;&#65289;&#12290;Content-Type &#20173;&#28982;&#26159; Content-Type&#65292;&#21482;&#19981;&#36807;&#23427;&#19981;&#20877;&#26159;&#25991;&#26412;&#20256;&#36755;&#20102;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1510673543994" ID="ID_1043675740" MODIFIED="1510673636972">
 <richcontent TYPE="NODE"><html>
@@ -1699,8 +1760,7 @@
       Stream Identifier: &#27969; ID&#65292;&#24403;&#23458;&#25143;&#31471;&#21644;&#26381;&#21153;&#31471;&#24314;&#31435; TCP &#38142;&#25509;&#26102;&#65292;&#23601;&#20250;&#20808;&#21457;&#36865;&#19968;&#20010; Stream ID = 0 &#30340;&#27969;&#65292;&#29992;&#26469;&#20570;&#20123;&#21021;&#22987;&#21270;&#24037;&#20316;&#12290;&#20043;&#21518;&#23458;&#25143;&#31471;&#21644;&#26381;&#21153;&#31471;&#20174; 1 &#24320;&#22987;&#21457;&#36865;&#35831;&#27714;/&#21709;&#24212;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1510674723283" ID="ID_1274934290" MODIFIED="1510708463773">
 <richcontent TYPE="NODE"><html>
@@ -1712,8 +1772,7 @@
       &#20026; HTTP/2 &#22836;&#21387;&#32553;&#19987;&#38376;&#35774;&#35745;&#30340; HPACK
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
