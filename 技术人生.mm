@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1509096362295" ID="ID_1201275124" MODIFIED="1510799356580" TEXT="&#x6280;&#x672f;&#x4eba;&#x751f;">
-<node CREATED="1509096469675" FOLDED="true" ID="ID_1759229542" MODIFIED="1510834460146" POSITION="right" TEXT="chrome&#x6d4f;&#x89c8;&#x5668;&#x7248;&#x672c;&#x7279;&#x6027;">
+<node CREATED="1509096469675" FOLDED="true" ID="ID_1759229542" MODIFIED="1511399542430" POSITION="right" TEXT="chrome&#x6d4f;&#x89c8;&#x5668;&#x7248;&#x672c;&#x7279;&#x6027;">
 <node CREATED="1509340303913" ID="ID_1436783535" MODIFIED="1509341372606">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -42,7 +42,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1509344572916" ID="ID_789601006" MODIFIED="1509344577305" POSITION="right" TEXT="NodeJS&#x65b0;&#x7279;&#x6027;">
+<node CREATED="1509344572916" FOLDED="true" ID="ID_789601006" MODIFIED="1511399540589" POSITION="right" TEXT="NodeJS&#x65b0;&#x7279;&#x6027;">
 <node CREATED="1510708474798" ID="ID_649016771" MODIFIED="1510708738636">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -80,49 +80,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510799403617" ID="ID_1312072089" MODIFIED="1510799406190" POSITION="right" TEXT="npm">
-<node CREATED="1510799412252" ID="ID_1855343102" MODIFIED="1510801972459">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      npx
-    </p>
-    <p>
-      1&#12289;npm@5.2.0&#24320;&#22987;&#25552;&#20379;
-    </p>
-    <p>
-      2&#12289;npm run
-    </p>
-    <p>
-      &#27604;&#22914;&#25105;&#22312;node_modules/.bin/&#30446;&#24405;&#19979;&#25918;&#32622;&#19968;&#20010;tom&#21629;&#20196;&#65292;&#24182;&#19988;&#25226;&#23427;&#37197;&#32622;&#22312;package.json&#30340;scripts&#37197;&#32622;&#20013;&#65292;&#20197;&#19979;&#25191;&#34892;&#30340;&#34892;&#20026;&#26159;&#19981;&#19968;&#26679;&#30340;
-    </p>
-    <p>
-      npm run tom -a -b --aaa=1 --bbb=2
-    </p>
-    <p>
-      npm run tom -- -a -b --aaa=1 --bbb=2
-    </p>
-    <p>
-      &#31532;&#19968;&#34892;-a&#12289;-b&#12289;--aaa&#12289;--bbb&#19981;&#20250;&#20256;&#36882;&#32473;tom&#65292;&#31532;&#20108;&#34892;&#21487;&#20197;
-    </p>
-    <p>
-      3&#12289;npx&#21487;&#20197;&#22312;&#19981;&#23450;&#20041;scripts&#30340;&#24773;&#20917;&#19979;&#35843;&#29992;&#26412;&#22320;&#30340;&#21629;&#20196;
-    </p>
-    <p>
-      4&#12289;&#21487;&#20197;&#19968;&#27425;&#24615;&#20351;&#29992;&#19968;&#20010;npm&#24211;&#65292;&#27604;&#22914;create-react-app
-    </p>
-    <p>
-      npx create-react-app my-app
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node CREATED="1510892642970" ID="ID_770552882" MODIFIED="1510892645418" POSITION="right" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;">
+<node CREATED="1510892642970" FOLDED="true" ID="ID_770552882" MODIFIED="1511399544188" POSITION="right" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;">
 <node CREATED="1510892648556" ID="ID_1213860705" MODIFIED="1510892650586" TEXT="Mac">
 <node CREATED="1510892654128" ID="ID_1069297119" MODIFIED="1510892707018">
 <richcontent TYPE="NODE"><html>
@@ -140,9 +98,32 @@
       https://www.fengzifz.com/2017/03/20/Mac-tar-files/
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1511399550118" ID="ID_1898909542" MODIFIED="1511399554183" POSITION="right" TEXT="&#x51b7;&#x77e5;&#x8bc6;">
+<node CREATED="1511399560894" ID="ID_1826991553" MODIFIED="1511399933571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1&#12289;macrotask&#21644;microtask
+    </p>
+    <p>
+      macrotasks: setTimeout, setInterval, setImmediate, requestAnimationFrame, I/O, UI rendering
+    </p>
+    <p>
+      microtasks: process.nextTick, Promises, Object.observe, MutationObserver
+    </p>
+    <p>
+      &#25191;&#34892;&#19968;&#20010;macrotask&#38431;&#21015;&#20043;&#21518;&#25191;&#34892;microtask&#38431;&#21015;&#65292;&#22914;&#26524;microtask&#38431;&#21015;&#21448;&#32487;&#32493;&#20135;&#29983;microtask&#20219;&#21153;&#65292;&#23601;&#20250;&#38459;&#22622;&#19979;&#19968;&#20010;macrotask&#38431;&#21015;&#30340;&#25191;&#34892;
+    </p>
+  </body>
 </html>
 </richcontent>
-</node>
 </node>
 </node>
 <node CREATED="1509096491187" FOLDED="true" ID="ID_1504059824" MODIFIED="1509936799875" POSITION="left" TEXT="PWA&#xff08;Progressive Web Apps&#xff09;">
@@ -1047,7 +1028,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1509937082824" FOLDED="true" ID="ID_1928068397" MODIFIED="1510022142696" TEXT="&#x6570;&#x5b57;&#x8bc1;&#x4e66;">
+<node CREATED="1509937082824" FOLDED="true" ID="ID_1928068397" MODIFIED="1511266335360" TEXT="&#x6570;&#x5b57;&#x8bc1;&#x4e66;">
 <node CREATED="1509937307719" ID="ID_1863969706" MODIFIED="1509938182863">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1173,7 +1154,7 @@
 </node>
 </node>
 <node CREATED="1509940839601" ID="ID_441676193" MODIFIED="1509940841235" TEXT="RSA"/>
-<node CREATED="1509940845896" FOLDED="true" ID="ID_1383355382" MODIFIED="1510022150406" TEXT="GPG">
+<node CREATED="1509940845896" FOLDED="true" ID="ID_1383355382" MODIFIED="1511266333273" TEXT="GPG">
 <node CREATED="1509940884855" ID="ID_1324196108" MODIFIED="1509941040279">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1226,7 +1207,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1509944060879" FOLDED="true" ID="ID_1916360255" MODIFIED="1510022145927" TEXT="openSSL">
+<node CREATED="1509944060879" FOLDED="true" ID="ID_1916360255" MODIFIED="1511441866378" TEXT="openSSL">
 <node CREATED="1509950367826" ID="ID_1091229815" MODIFIED="1509950376419">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1482,9 +1463,41 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510053894621" ID="ID_826528041" MODIFIED="1510053898344" POSITION="left" TEXT="&#x5bc6;&#x7801;&#x5b66;">
+<node CREATED="1510053894621" FOLDED="true" ID="ID_826528041" MODIFIED="1511450758143" POSITION="left" TEXT="&#x5bc6;&#x7801;&#x5b66;">
 <node CREATED="1510053900864" ID="ID_896096420" MODIFIED="1510053902467" TEXT="AES"/>
 <node CREATED="1510054012786" ID="ID_2337327" MODIFIED="1510054014449" TEXT="DES"/>
+<node CREATED="1511266320633" ID="ID_495778675" MODIFIED="1511278057177">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sha1
+    </p>
+    <p>
+      SHA1 &#26159;&#30001; NIST NSA &#35774;&#35745;&#20026;&#21516; DSA &#19968;&#36215;&#20351;&#29992;&#30340;&#65292;sha &#26159; Secure Hash algorithm &#30340;&#32553;&#20889;&#65307;&#23427;&#23545;&#38271;&#24230;&#23567;&#20110; 2^64 &#30340;&#36755;&#20837;&#65292;&#20135;&#29983;&#38271;&#24230;&#20026; 160bit &#30340;&#25955;&#21015;&#20540;&#65307;(&#27604;MD5&#26356;&#29282;&#38752;) SHA-1 &#35774;&#35745;&#26102;&#22522;&#20110;&#21644; MD4 &#30456;&#21516;&#21407;&#29702;,&#24182;&#19988;&#27169;&#20223;&#20102;&#35813;&#31639;&#27861;&#12290;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1511277525288" ID="ID_740034084" MODIFIED="1511277839912">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      md5
+    </p>
+    <p>
+      MD5(RFC1321) &#26159; Rivest &#20110; 1991 &#24180;&#23545; MD4 &#30340;&#25913;&#36827;&#29256;&#26412;&#65292;&#23558;&#20219;&#24847;&#38271;&#30340;&#26126;&#25991; hash &#25104; 128 bit &#30340;&#26434;&#20945;&#20540;&#12290;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1510275429528" FOLDED="true" ID="ID_1874656365" MODIFIED="1510834958004" POSITION="left" TEXT="Benchmark&#x65b9;&#x6cd5;">
 <node CREATED="1510276096413" ID="ID_818435731" MODIFIED="1510276100549" TEXT="Benchmark.js">
@@ -1773,6 +1786,420 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node CREATED="1511441742766" FOLDED="true" ID="ID_743477962" MODIFIED="1511441765288" POSITION="left" TEXT="NodeJS">
+<node CREATED="1511240110476" FOLDED="true" ID="ID_104751143" MODIFIED="1511441738180">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Node.js&#20869;&#23384;&#38382;&#39064;
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1511242286437" ID="ID_1226802713" MODIFIED="1511245064232">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#30456;&#20851;&#38142;&#25509;
+    </p>
+    <p>
+      https://tech.residebrokerage.com/debugging-node-js-memory-problems-d450787d9253
+    </p>
+    <p>
+      https://developers.google.com/web/tools/chrome-devtools/memory-problems/
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1511240116735" ID="ID_375391519" MODIFIED="1511240726242">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#20869;&#23384;&#27844;&#38706;
+    </p>
+    <p>
+      1&#12289;&#22312;&#20302;&#32423;&#35821;&#35328;&#20013;&#65292;&#19968;&#33324;&#20986;&#29616;&#22312;&#20869;&#23384;&#20998;&#37197;&#20102;&#65292;&#20294;&#26159;&#27809;&#26377;&#27491;&#30830;&#22320;&#21435;&#22238;&#25910;
+    </p>
+    <p>
+      buffer = malloc(num_items*sizeof(double));
+    </p>
+    <p>
+      free(buffer);
+    </p>
+    <p>
+      2&#12289;&#22312;&#39640;&#32423;&#35821;&#35328;&#20013;&#65292;&#22914;JS&#65292;&#20986;&#29616;&#22312;&#23545;&#35937;&#19981;&#29992;&#20102;&#65292;&#32780;&#33021;&#22815;&#34987;&#38381;&#21253;&#25110;&#20840;&#23616;&#23545;&#24212;&#24341;&#29992;&#21040;&#65292;&#23548;&#33268;&#27809;&#33021;&#22815;&#22238;&#25910;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1511240729556" ID="ID_360296085" MODIFIED="1511240811648">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      memory boat
+    </p>
+    <p>
+      1&#12289;&#31243;&#24207;&#20351;&#29992;&#20102;&#36229;&#36807;&#23427;&#26412;&#36523;&#38656;&#35201;&#30340;&#20869;&#23384;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1511241071757" ID="ID_923774807" MODIFIED="1511246662117">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#35299;&#20915;&#21150;&#27861;
+    </p>
+    <p>
+      1&#12289;&#30701;&#26399;&#35299;&#20915;
+    </p>
+    <p>
+      &#65288;1&#65289;&#12289;&#20462;&#25913;node&#20998;&#37197;&#30340;&#20869;&#23384;
+    </p>
+    <p>
+      node --max_old_space_size=$SIZE server.js //$SIZE&#21333;&#20301;M
+    </p>
+    <p>
+      2&#12289;&#35843;&#35797;
+    </p>
+    <p>
+      &#65288;1&#65289;&#12289;&#20351;&#29992;heapdump&#25910;&#38598;&#20869;&#23384;&#28040;&#32791;&#25968;&#25454;
+    </p>
+    <p>
+      import heapdump from 'heapdump';
+    </p>
+    <p>
+      export const handleUserRequest = (req) =&gt; {
+    </p>
+    <p>
+      &#160;&#160;heapdump.writeSnapshot(
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;`1.User_Request_Received-${Date.now()}.heapsnapshot`,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;(err, filename) =&gt; {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;console.log('dump written to', filename);
+    </p>
+    <p>
+      &#160;&#160;});
+    </p>
+    <p>
+      &#160;&#160;return startMemoryIntensiveProcess(req);
+    </p>
+    <p>
+      };
+    </p>
+    <p>
+      &#65288;2&#65289;&#12289;&#20351;&#29992;node --inspect app.js&#35843;&#35797;
+    </p>
+    <p>
+      &#36816;&#34892;&#21518;&#65292;&#22312;chrome&#20013;&#25171;&#24320;chrome://inspect&#36827;&#34892;&#35843;&#35797;
+    </p>
+    <p>
+      &#65288;3&#65289;&#12289;&#23558;&#24555;&#29031;&#21152;&#20837;&#21040;devtools&#30340;Profiles&#20013;
+    </p>
+    <p>
+      &#22914;&#26524;&#21457;&#29616;&#20869;&#23384;&#20351;&#29992;&#36234;&#26469;&#36234;&#22810;&#65292;&#37027;&#20040;&#26377;&#21487;&#33021;&#26159;&#20869;&#23384;&#27844;&#38706;&#20102;
+    </p>
+    <p>
+      3&#12289;&#20998;&#26512;
+    </p>
+    <p>
+      retained size&#65306;&#34920;&#31034;&#23558;&#25351;&#23450;&#23545;&#35937;&#21024;&#38500;&#65292;&#21516;&#26102;&#23558;&#20381;&#36182;&#23427;&#30340;&#23545;&#35937;&#20570;&#21040;GC ROOT&#19981;&#21487;&#36798;&#21518;&#65292;&#33021;&#22815;&#37322;&#25918;&#20986;&#26469;&#30340;&#20869;&#23384;
+    </p>
+    <p>
+      &#25353;&#29031;retained size&#20498;&#24207;&#25490;&#21015;&#65292;&#20174;&#22836;&#37096;&#24320;&#22987;&#26816;&#26597;&#30830;&#35748;&#37322;&#25918;&#26159;&#20869;&#23384;&#27844;&#38706;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1510799403617" FOLDED="true" ID="ID_1312072089" MODIFIED="1511399545847" TEXT="npm">
+<node CREATED="1510799412252" ID="ID_1855343102" MODIFIED="1510801972459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      npx
+    </p>
+    <p>
+      1&#12289;npm@5.2.0&#24320;&#22987;&#25552;&#20379;
+    </p>
+    <p>
+      2&#12289;npm run
+    </p>
+    <p>
+      &#27604;&#22914;&#25105;&#22312;node_modules/.bin/&#30446;&#24405;&#19979;&#25918;&#32622;&#19968;&#20010;tom&#21629;&#20196;&#65292;&#24182;&#19988;&#25226;&#23427;&#37197;&#32622;&#22312;package.json&#30340;scripts&#37197;&#32622;&#20013;&#65292;&#20197;&#19979;&#25191;&#34892;&#30340;&#34892;&#20026;&#26159;&#19981;&#19968;&#26679;&#30340;
+    </p>
+    <p>
+      npm run tom -a -b --aaa=1 --bbb=2
+    </p>
+    <p>
+      npm run tom -- -a -b --aaa=1 --bbb=2
+    </p>
+    <p>
+      &#31532;&#19968;&#34892;-a&#12289;-b&#12289;--aaa&#12289;--bbb&#19981;&#20250;&#20256;&#36882;&#32473;tom&#65292;&#31532;&#20108;&#34892;&#21487;&#20197;
+    </p>
+    <p>
+      3&#12289;npx&#21487;&#20197;&#22312;&#19981;&#23450;&#20041;scripts&#30340;&#24773;&#20917;&#19979;&#35843;&#29992;&#26412;&#22320;&#30340;&#21629;&#20196;
+    </p>
+    <p>
+      4&#12289;&#21487;&#20197;&#19968;&#27425;&#24615;&#20351;&#29992;&#19968;&#20010;npm&#24211;&#65292;&#27604;&#22914;create-react-app
+    </p>
+    <p>
+      npx create-react-app my-app
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1511343994232" ID="ID_761674426" MODIFIED="1511450759611" POSITION="left" TEXT="CSS">
+<node CREATED="1511344075739" ID="ID_837391380" MODIFIED="1511344088918" TEXT="&#x7b2c;&#x4e00;&#x7ae0;&#xff1a;&#x63ed;&#x5f00;CSS3&#x7684;&#x9762;&#x7eb1;"/>
+<node CREATED="1511344093085" FOLDED="true" ID="ID_1830397007" MODIFIED="1511514959157" TEXT="&#x7b2c;&#x4e8c;&#x7ae0;&#xff1a;CSS3&#x9009;&#x62e9;&#x5668;">
+<node CREATED="1511344188911" ID="ID_697578958" MODIFIED="1511366916141">
+<richcontent TYPE="NODE">&lt;html&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      2.4&#x3001;&#x52a8;&#x6001;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.4.1&#x3001;&#x52a8;&#x6001;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :link &#x8d85;&#x94fe;&#x63a5;&#x6ca1;&#x6709;&#x88ab;&#x8bbf;&#x95ee;&#x8fc7;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :visited &#x8d85;&#x94fe;&#x63a5;&#x5e76;&#x5df2;&#x7ecf;&#x88ab;&#x8bbf;&#x95ee;&#x8fc7;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :active &#x88ab;&#x6fc0;&#x6d3b;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :hover &#x9f20;&#x6807;&#x60ac;&#x505c;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :focus &#x83b7;&#x5f97;&#x7126;&#x70b9;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.5&#x3001;&#x76ee;&#x6807;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :target &#x5f53;&#x5b58;&#x5728;URL&#x6307;&#x5411;&#x5339;&#x914d;&#x5143;&#x7d20;&#x65f6;&#xff0c;&#x6837;&#x5f0f;&#x6548;&#x679c;&#x624d;&#x4f1a;&#x751f;&#x6548;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.6&#x3001;&#x8bed;&#x8a00;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :lang(&lt;content ename=&quot;content&quot;&gt;) &#x5339;&#x914d;lang&#x5c5e;&#x6027;&#x8bbe;&#x7f6e;&#x4e3a;zh&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.7&#x3001;UI&#x5143;&#x7d20;&#x72b6;&#x6001;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :checked &#x5339;&#x914d;&#x9009;&#x4e2d;&#x7684;&#x590d;&#x9009;&#x6846;&#x6216;&#x5355;&#x9009;&#x6309;&#x94ae;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :enabled &#x5339;&#x914d;&#x6240;&#x6709;&#x542f;&#x7528;&#x7684;&#x8868;&#x5355;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :disabled &#x5339;&#x914d;&#x6240;&#x6709;&#x7981;&#x7528;&#x7684;&#x8868;&#x5355;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.8&#x3001;&#x7ed3;&#x6784;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :first-child &#x4f5c;&#x4e3a;&#x7236;&#x5143;&#x7d20;&#x7684;&#x7b2c;&#x4e00;&#x4e2a;&#x5b50;&#x5143;&#x7d20;&#x51fa;&#x73b0;&#xff0c;&#x7b49;&#x540c;&#x4e8e;:nth-child(1)
+    &lt;/p&gt;
+    &lt;p&gt;
+      :last-child &#x4f5c;&#x4e3a;&#x7236;&#x5143;&#x7d20;&#x7684;&#x6700;&#x540e;&#x4e00;&#x4e2a;&#x5b50;&#x5143;&#x7d20;&#x51fa;&#x73b0;&#xff0c;&#x7b49;&#x540c;&#x4e8e;:nth-last-child(1)
+    &lt;/p&gt;
+    &lt;p&gt;
+      :root &#x5339;&#x914d;&#x6839;&#x5143;&#x7d20;&#xff0c;HTML&#x6587;&#x6863;&#x4e2d;&#x59cb;&#x7ec8;&#x662f;html&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :nth-child(n) 
+      &#x5339;&#x914d;&#x7b2c;n&#x4e2a;&#x5b50;&#x5143;&#x7d20;&#xff0c;n&#x7684;&#x8d77;&#x59cb;&#x503c;&#x662f;1&#x800c;&#x4e0d;&#x662f;0&#xff0c;&#x5982;&#x679c;&#x6307;&#x5b9a;0&#x5219;&#x4f1a;&#x5bfc;&#x81f4;&#x5339;&#x914d;&#x4e0d;&#x5230;&#x4efb;&#x4f55;&#x5143;&#x7d20;&#x3002;n&#x53ef;&#x4ee5;&#x662f;&#x6574;&#x6570;&#x3001;&#x5173;&#x952e;&#x5b57;&#xff08;odd&#x3001;even&#xff09;&#x3001;&#x53ef;&#x4ee5;&#x662f;&#x8868;&#x8fbe;&#x5f0f;&#xff08;2n+1&#x3001;-n+5&#xff0c;&#x8868;&#x8fbe;&#x5f0f;&#x4e2d;&#x7684;n&#x4ece;0&#x5f00;&#x59cb;&#x8ba1;&#x7b97;&#xff09;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :nth-last-child(n) &#x540c;&#x4e0a;&#xff0c;&#x65b9;&#x5411;&#x76f8;&#x53cd;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :nth-of-type(n) &#x5339;&#x914d;&#x6307;&#x5b9a;&#x7c7b;&#x578b;&#xff08;&#x5982;div&#x662f;&#x4e00;&#x4e2a;&#x7c7b;&#x578b;&#xff09;&#x7684;&#x7b2c;n&#x4e2a;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :nth-last-of-type(n) &#x540c;&#x4e0a;&#xff0c;&#x65b9;&#x5411;&#x76f8;&#x53cd;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :first-of-type
+    &lt;/p&gt;
+    &lt;p&gt;
+      :last-of-type
+    &lt;/p&gt;
+    &lt;p&gt;
+      :only-child &#x5339;&#x914d;&#x7236;&#x5143;&#x7d20;&#x4e2d;&#x4ec5;&#x5305;&#x542b;&#x4e00;&#x4e2a;&#x5b50;&#x5143;&#x7d20;&#x7684;&#x5b50;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :only-of-type
+    &lt;/p&gt;
+    &lt;p&gt;
+      :empty &#x5339;&#x914d;&#x6ca1;&#x6709;&#x5b50;&#x5143;&#x7d20;&#x4e14;&#x4e0d;&#x5305;&#x542b;&#x6587;&#x672c;&#x8282;&#x70b9;&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.9&#x3001;&#x5426;&#x5b9a;&#x4f2a;&#x7c7b;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      :not(selector) &#x5339;&#x914d;selector&#x4e4b;&#x5916;&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.10&#x3001;&#x4f2a;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      ::first-letter &#x5339;&#x914d;&#x7b2c;&#x4e00;&#x4e2a;&#x5b57;&#x6bcd;
+    &lt;/p&gt;
+    &lt;p&gt;
+      ::first-line &#x5339;&#x914d;&#x7b2c;&#x4e00;&#x884c;
+    &lt;/p&gt;
+    &lt;p&gt;
+      ::before &#x5339;&#x914d;&#x5143;&#x7d20;&#x4e4b;&#x524d;&#x7684;&#x4f4d;&#x7f6e;&#xff0c;before&#x548c;after&#x63d2;&#x5165;&#x5185;&#x5bb9;&#x9700;&#x8981;&#x548c;content&#x5c5e;&#x6027;&#x914d;&#x5408;&#x4f7f;&#x7528;&#xff0c;&#x63d2;&#x5165;&#x7684;&#x5185;&#x5bb9;&#x4e0d;&#x4f1a;&#x52a0;&#x5165;DOM
+    &lt;/p&gt;
+    &lt;p&gt;
+      ::after &#x5339;&#x914d;&#x5143;&#x7d20;&#x4e4b;&#x540e;&#x7684;&#x4f4d;&#x7f6e;
+    &lt;/p&gt;
+    &lt;p&gt;
+      ::selection &#x5339;&#x914d;&#x9009;&#x4e2d;&#x7684;&#x6587;&#x672c;&#xff0c;&#x4ec5;&#x63a5;&#x53d7;&#x4e24;&#x4e2a;&#x5c5e;&#x6027;&#xff0c;&#x4e00;&#x4e2a;background&#x548c;&#x4e00;&#x4e2a;color
+    &lt;/p&gt;
+    &lt;p&gt;
+      2.11&#x3001;&#x5c5e;&#x6027;&#x9009;&#x62e9;&#x5668;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr] &#x5339;&#x914d;&#x5305;&#x542b;attr&#x5c5e;&#x6027;&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x503c;&#x4e3a;val&#x7684;&#x5143;&#x7d20;&#xff0c;&#x5fc5;&#x987b;&#x5b8c;&#x5168;&#x76f8;&#x7b49;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr|=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x503c;&#x7b49;&#x4e8e;val&#x6216;&#x8005;val-&#x5f00;&#x5934;&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr~=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x503c;&#x4e2d;&#xff08;&#x6709;&#x4e9b;&#x5c5e;&#x6027;&#x6709;&#x591a;&#x4e2a;&#x503c;&#x7528;&#x7a7a;&#x683c;&#x5206;&#x5f00;&#xff09;&#x6709;value&#x7684;&#x5143;&#x7d20;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr*=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x4efb;&#x610f;&#x4f4d;&#x7f6e;&#x5305;&#x542b;val&#x7684;&#x5143;&#x7d20;&#xff0c;&#x5339;&#x914d;&#x5c40;&#x90e8;&#x5c31;&#x597d;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr^=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x503c;&#x4ee5;val&#x5f00;&#x5934;&#x7684;&#x5143;&#x7d20;&#xff0c;&#x5339;&#x914d;&#x5c40;&#x90e8;&#x5c31;&#x597d;
+    &lt;/p&gt;
+    &lt;p&gt;
+      [attr$=val] &#x5339;&#x914d;attr&#x5c5e;&#x6027;&#x503c;&#x4ee5;val&#x7ed3;&#x5c3e;&#x7684;&#x5143;&#x7d20;&#xff0c;&#x5339;&#x914d;&#x5c40;&#x90e8;&#x5c31;&#x597d;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+</node>
+<node CREATED="1511366942788" ID="ID_671777121" MODIFIED="1511366948569" TEXT="&#x7b2c;&#x4e09;&#x7ae0;&#xff1a;&#x8fb9;&#x6846;">
+<node CREATED="1511450879609" ID="ID_212155292" MODIFIED="1511451905240">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.1&#12289;&#36793;&#26694;&#31616;&#20171;
+    </p>
+    <p>
+      3.1.1&#12289;&#36793;&#26694;&#30340;&#22522;&#26412;&#23646;&#24615;
+    </p>
+    <p>
+      1&#12289;border-width&#65292;border-color&#65292;border-style
+    </p>
+    <p>
+      2&#12289;&#32553;&#20889;border: border-width border-style border-color&#65292;style&#26159;&#24517;&#39035;&#30340;&#65292;&#22914;&#26524;&#19981;&#20889;&#23427;&#30340;&#40664;&#35748;&#20540;&#26159;none&#65292;&#34920;&#31034;&#27809;&#26377;&#36793;&#26694;&#12290;width&#30340;&#40664;&#35748;&#20540;&#26159;medium&#65288;&#22823;&#32422;3-4px&#65289;&#12290;color&#30340;&#40664;&#35748;&#20540;&#23601;&#26159;&#23383;&#20307;&#30340;&#39068;&#33394;&#12290;
+    </p>
+    <p>
+      3&#12289;&#21333;&#29420;&#35774;&#32622;border-***&#23646;&#24615;&#65292;&#38656;&#36981;&#24490;TRBL&#21407;&#21017;&#65288;TOP/RIGHT/BOTTOM/LEFT&#65289;&#21407;&#21017;&#65292;&#22914;&#65306;
+    </p>
+    <p>
+      border-style: solid dotted dashed inset //4&#20010;&#20540;&#20998;&#21035;&#23545;&#24212;TRBL
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1511452649465" ID="ID_1274553358" MODIFIED="1511453141452">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.2&#12289;CSS3&#36793;&#26694;&#39068;&#33394;&#23646;&#24615;&#65306;border-color
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1511452670018" ID="ID_575722976" MODIFIED="1511453130939">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.3&#12289;CSS3&#22270;&#29255;&#36793;&#26694;&#23646;&#24615;&#65306;border-image
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1511452901934" ID="ID_865184474" MODIFIED="1511453096057">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.4&#12289;CSS3&#22278;&#35282;&#36793;&#26694;&#23646;&#24615;&#65306;border-radius&#23646;&#24615;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1511452982424" ID="ID_459021139" MODIFIED="1511453059788">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.5&#12289;CSS3&#30418;&#23376;&#38452;&#24433;&#23646;&#24615;&#65306;box-shadow
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
