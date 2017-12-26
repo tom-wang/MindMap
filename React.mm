@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1512734175990" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
+<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1514199438824" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
 <node CREATED="1505706725462" ID="ID_1498308317" MODIFIED="1505734515714">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2258,8 +2258,7 @@
       3&#12289;data-reactroot&#26159;SSR&#28210;&#26579;&#20986;&#26469;&#30340;&#23646;&#24615;&#21527;&#65311;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1512576998032" ID="ID_1065426133" MODIFIED="1512577000234" POSITION="left" TEXT="&#x6e90;&#x7801;">
 <node CREATED="1512577003239" FOLDED="true" ID="ID_1567298764" MODIFIED="1512734182540">
@@ -2420,7 +2419,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1512734195642" ID="ID_453797809" MODIFIED="1512734222168" TEXT="ReactDOM.render(element, container, callback)"/>
+<node CREATED="1512734195642" ID="ID_453797809" MODIFIED="1512993054532">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ReactDOM.render(element, container, callback)
+    </p>
+    <p>
+      1&#12289;render-&gt;renderSubtreeIntoContainer-&gt;DOMRenderer.updateContainer
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1512734269728" ID="ID_1504483941" MODIFIED="1512734279011" TEXT="ReactDOM.hydrate(element, container, callback)"/>
 </node>
 <node CREATED="1512734854462" ID="ID_1525666386" MODIFIED="1512734861681" TEXT="Renderer&#xff08;&#x6e32;&#x67d3;&#x5668;&#xff09;">
