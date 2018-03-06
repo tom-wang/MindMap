@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1516083931693" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
+<node CREATED="1505706645333" ID="ID_810871137" MODIFIED="1519875712842" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
 <node CREATED="1505706725462" ID="ID_1498308317" MODIFIED="1505734515714">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1018,7 +1018,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1511181460422" FOLDED="true" ID="ID_1195938303" MODIFIED="1516083941134" POSITION="right">
+<node CREATED="1511181460422" FOLDED="true" ID="ID_1195938303" MODIFIED="1516084040882" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2239,7 +2239,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510812635865" ID="ID_1466204335" MODIFIED="1512735453821" POSITION="left">
+<node CREATED="1510812635865" ID="ID_1466204335" MODIFIED="1518059672119" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2252,16 +2252,22 @@
       1&#12289;react&#12289;react-dom&#26159;&#20160;&#20040;&#65311;
     </p>
     <p>
+      &#30456;&#24403;&#20110;Vue&#20013;&#30340;runtime&#21644;compiler&#30340;&#20851;&#31995;
+    </p>
+    <p>
       2&#12289;JSX&#26159;&#24590;&#20040;&#35299;&#26512;&#30340;&#65311;
     </p>
     <p>
       3&#12289;data-reactroot&#26159;SSR&#28210;&#26579;&#20986;&#26469;&#30340;&#23646;&#24615;&#21527;&#65311;
     </p>
+    <p>
+      &#26159;&#30340;&#65292;&#31867;&#20284;Vue&#30340;data-server-rendered&#23646;&#24615;
+    </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1512576998032" FOLDED="true" ID="ID_1065426133" MODIFIED="1516083943831" POSITION="left" TEXT="&#x6e90;&#x7801;">
-<node CREATED="1512577003239" FOLDED="true" ID="ID_1567298764" MODIFIED="1516083910624">
+<node CREATED="1512576998032" ID="ID_1065426133" MODIFIED="1516084044257" POSITION="left" TEXT="&#x6e90;&#x7801;">
+<node CREATED="1512577003239" ID="ID_1567298764" MODIFIED="1518059625438">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2405,7 +2411,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1512608374105" ID="ID_848843609" MODIFIED="1512627682130">
+<node CREATED="1512608374105" ID="ID_848843609" MODIFIED="1518059633192">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2435,6 +2441,45 @@
 </html></richcontent>
 </node>
 <node CREATED="1512734269728" ID="ID_1504483941" MODIFIED="1512734279011" TEXT="ReactDOM.hydrate(element, container, callback)"/>
+</node>
+<node CREATED="1516085123137" FOLDED="true" ID="ID_219285457" MODIFIED="1518058939663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ReactDOMServer
+    </p>
+    <p>
+      1&#12289;SSR&#36923;&#36753;&#20301;&#20110;packages/react-dom/server.js
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1516085157523" ID="ID_1669326775" MODIFIED="1516085408306">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ReactDOMServer.renderToString
+    </p>
+    <p>
+      ReactDOMServer.renderToNodeStream
+    </p>
+    <p>
+      ReactDOMServer.renderToStaticMarkup
+    </p>
+    <p>
+      ReactDOMServer.renderToStaticNodeStream
+    </p>
+    <p>
+      &#21069;&#38754;2&#20010;&#36319;Vue&#24046;&#19981;&#22810;&#65292;&#21518;&#38754;2&#20010;&#26041;&#27861;&#36866;&#29992;&#20110;&#20570;&#32431;&#30452;&#20986;&#19981;&#38656;&#35201;&#21069;&#31471;hydrate&#30340;&#39029;&#38754;&#65292;&#27492;&#26102;React&#19981;&#38656;&#35201;&#28210;&#26579;&#19968;&#20123;&#39069;&#22806;&#30340;&#23646;&#24615;&#22914;data-reactroot
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1512734854462" ID="ID_1525666386" MODIFIED="1512734861681" TEXT="Renderer&#xff08;&#x6e32;&#x67d3;&#x5668;&#xff09;">
 <node CREATED="1512734864723" ID="ID_1957125366" MODIFIED="1512734868739" TEXT="DOMRenderer"/>
