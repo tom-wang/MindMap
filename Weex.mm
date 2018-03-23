@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1505364396927" ID="ID_1893483461" MODIFIED="1505364404869" TEXT="Weex">
-<node CREATED="1505364638568" ID="ID_330741542" MODIFIED="1509978828998" POSITION="right" TEXT="&#x6559;&#x7a0b;">
+<node CREATED="1505364638568" FOLDED="true" ID="ID_330741542" MODIFIED="1520510828687" POSITION="right" TEXT="&#x6559;&#x7a0b;">
 <node CREATED="1505364645282" ID="ID_776588269" MODIFIED="1505365984338">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -81,7 +81,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1505367234479" FOLDED="true" ID="ID_602925403" MODIFIED="1509978827694" POSITION="left" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1505367234479" FOLDED="true" ID="ID_602925403" MODIFIED="1520510827683" POSITION="left" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1505366338661" ID="ID_1841909554" MODIFIED="1505367250515">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -260,7 +260,34 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1505801722865" FOLDED="true" ID="ID_542850094" MODIFIED="1509970529441" POSITION="right" TEXT="&#x624b;&#x518c;">
+<node CREATED="1520510832683" ID="ID_806805241" MODIFIED="1520510840083" POSITION="left" TEXT="&#x4f01;&#x9e45;&#x7535;&#x7ade;&#x4f7f;&#x7528;weex&#x603b;&#x7ed3;">
+<node CREATED="1520510846573" ID="ID_1340922516" MODIFIED="1520510944077">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#19968;&#12289;&#27809;&#26377;ua
+    </p>
+    <p>
+      &#20108;&#12289;&#19981;&#25903;&#25345;cookie
+    </p>
+    <p>
+      iOS&#21487;&#20197;&#20849;&#20139;webview&#30340;cookie&#65292;&#23433;&#21331;&#38656;&#35201;&#32456;&#31471;&#26469;&#25193;&#23637;Module
+    </p>
+    <p>
+      &#19977;&#12289;&#26412;&#22320;&#23384;&#20648;
+    </p>
+    <p>
+      &#27809;&#26377;localStorage&#65292;&#20351;&#29992;weex&#25552;&#20379;&#30340;storage&#26367;&#20195;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1505801722865" FOLDED="true" ID="ID_542850094" MODIFIED="1520509318839" POSITION="right" TEXT="&#x624b;&#x518c;">
 <node CREATED="1505809100412" ID="ID_1347298164" MODIFIED="1505811503902">
 <richcontent TYPE="NODE"><html>
   <head>
