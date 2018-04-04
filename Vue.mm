@@ -5535,8 +5535,7 @@
       &#28155;&#21152;&#19968;&#20010;beforeCreate&#30340;mixin&#65292;&#20351;&#24471;&#26681;&#32452;&#20214;&#20197;&#21450;&#25152;&#26377;&#30340;&#23376;&#32452;&#20214;&#37117;&#26377;&#19968;&#20010;$store&#23646;&#24615;&#65292;&#35813;&#23646;&#24615;&#25351;&#21521;&#26032;&#21019;&#24314;&#30340;vuex&#23454;&#20363;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1518062434479" ID="ID_1298934204" MODIFIED="1519887583079" POSITION="right" TEXT="computed&#x5c5e;&#x6027;&#x7684;&#x539f;&#x7406;">
@@ -6362,7 +6361,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1507819445018" FOLDED="true" ID="ID_930661043" MODIFIED="1519887523366" POSITION="left">
+<node CREATED="1507819445018" ID="ID_930661043" MODIFIED="1522316307057" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     

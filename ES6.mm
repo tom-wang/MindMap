@@ -1379,8 +1379,7 @@
       obj.isTestable // true
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1516365132413" ID="ID_1421217560" MODIFIED="1516365840285">
 <richcontent TYPE="NODE"><html>
@@ -1503,8 +1502,7 @@
       &#19978;&#38754;&#20195;&#30721;&#20013;&#65292;&#22806;&#23618;&#20462;&#39280;&#22120;@dec(1)&#20808;&#36827;&#20837;&#65292;&#20294;&#26159;&#20869;&#23618;&#20462;&#39280;&#22120;@dec(2)&#20808;&#25191;&#34892;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1516365927505" ID="ID_816875308" MODIFIED="1516590684943">
 <richcontent TYPE="NODE"><html>
@@ -1609,11 +1607,10 @@
       const wrapped = loggingDecorator(doSomething);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1504777291248" ID="ID_92617511" MODIFIED="1517476067405" POSITION="left" TEXT="Module&#x7684;&#x8bed;&#x6cd5;">
+<node CREATED="1504777291248" FOLDED="true" ID="ID_92617511" MODIFIED="1521699465856" POSITION="left" TEXT="Module&#x7684;&#x8bed;&#x6cd5;">
 <node CREATED="1504773395474" ID="ID_402189306" MODIFIED="1517476078480">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1771,8 +1768,7 @@
       export { foo, bar };
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1504773402406" ID="ID_1403021144" MODIFIED="1517475202803">
 <richcontent TYPE="NODE"><html>
@@ -1865,8 +1861,7 @@
       customName(); // 'foo'
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1504777240829" ID="ID_1024285400" MODIFIED="1504777270666">
 <richcontent TYPE="NODE"><html>
@@ -1905,7 +1900,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1509344328283" FOLDED="true" ID="ID_1036310981" MODIFIED="1517475468598" POSITION="left" TEXT="Module&#x7684;&#x52a0;&#x8f7d;&#x5b9e;&#x73b0;">
+<node CREATED="1509344328283" FOLDED="true" ID="ID_1036310981" MODIFIED="1521699540420" POSITION="left" TEXT="Module&#x7684;&#x52a0;&#x8f7d;&#x5b9e;&#x73b0;">
 <node CREATED="1509344350224" ID="ID_1156362244" MODIFIED="1509355136321">
 <richcontent TYPE="NODE"><html>
   <head>

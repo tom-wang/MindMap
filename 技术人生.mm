@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1509096362295" ID="ID_1201275124" MODIFIED="1512313526472" TEXT="&#x6280;&#x672f;&#x4eba;&#x751f;">
-<node CREATED="1512124733614" FOLDED="true" ID="ID_681975519" MODIFIED="1520405724634" POSITION="right" TEXT="&#x6280;&#x672f;&#x7ba1;&#x7406;">
+<node CREATED="1512124733614" ID="ID_681975519" MODIFIED="1522808876436" POSITION="right" TEXT="&#x6280;&#x672f;&#x7ba1;&#x7406;">
 <node CREATED="1512124756322" ID="ID_1126544043" MODIFIED="1519811145902">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -122,7 +122,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1516187127413" ID="ID_721660599" MODIFIED="1519805782368">
+<node CREATED="1516187127413" ID="ID_721660599" MODIFIED="1522808905622">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -158,8 +158,12 @@
     <p>
       9&#12289;&#20570;&#24046;&#24322;&#21270;&#65292;&#21035;&#20154;&#19981;&#20570;&#30340;&#20107;&#24773;&#20320;&#21487;&#20197;&#32771;&#34385;&#20570;
     </p>
+    <p>
+      10&#12289;&#20135;&#21697;&#24605;&#32500;
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1516243837906" FOLDED="true" ID="ID_55839218" MODIFIED="1519714923689" POSITION="right" TEXT="&#x6280;&#x672f;&#x7b54;&#x8fa9;">
@@ -537,8 +541,7 @@
       1&#12289;&#20351;&#29992;&#32431;&#20989;&#25968;&#65292;&#36755;&#20837;&#19981;&#21464;&#30340;&#24773;&#20917;&#19979;&#36755;&#20986;&#20063;&#19981;&#21464;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1509096469675" FOLDED="true" ID="ID_1759229542" MODIFIED="1513251246744" POSITION="right" TEXT="chrome&#x6d4f;&#x89c8;&#x5668;&#x7248;&#x672c;&#x7279;&#x6027;">
@@ -620,7 +623,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510892642970" FOLDED="true" ID="ID_770552882" MODIFIED="1519959755601" POSITION="right" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;">
+<node CREATED="1510892642970" FOLDED="true" ID="ID_770552882" MODIFIED="1522372939808" POSITION="right" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;">
 <node CREATED="1510892648556" ID="ID_1213860705" MODIFIED="1510892650586" TEXT="Mac">
 <node CREATED="1510892654128" ID="ID_1069297119" MODIFIED="1510892707018">
 <richcontent TYPE="NODE"><html>
@@ -767,8 +770,7 @@
       &#26377; defer&#65292;&#21152;&#36733;&#21518;&#32493;&#25991;&#26723;&#20803;&#32032;&#30340;&#36807;&#31243;&#23558;&#21644; script.js &#30340;&#21152;&#36733;&#24182;&#34892;&#36827;&#34892;&#65288;&#24322;&#27493;&#65289;&#65292;&#20294;&#26159; script.js &#30340;&#25191;&#34892;&#35201;&#22312;&#25152;&#26377;&#20803;&#32032;&#35299;&#26512;&#23436;&#25104;&#20043;&#21518;&#65292;DOMContentLoaded &#20107;&#20214;&#35302;&#21457;&#20043;&#21069;&#23436;&#25104;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1514187563830" FOLDED="true" ID="ID_1114073005" MODIFIED="1519613129349" POSITION="right" TEXT="&#x65b0;&#x7279;&#x6027;&#x4e0a;&#x7ebf;checkList">
@@ -2484,8 +2486,7 @@
       4&#12289;Instance&#65306;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1509454419596" FOLDED="true" ID="ID_1345477353" MODIFIED="1510233865930" POSITION="left" TEXT="History API">
@@ -3205,8 +3206,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;break
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1519613159320" FOLDED="true" ID="ID_685654600" MODIFIED="1520838481496" POSITION="left" TEXT="&#x6570;&#x636e;&#x7ed3;&#x6784;">
@@ -3271,11 +3271,10 @@
       &#24403;&#29238;&#33410;&#28857;&#30340;&#38190;&#20540;&#24635;&#26159;&#22823;&#20110;&#25110;&#31561;&#20110;&#20219;&#20309;&#19968;&#20010;&#23376;&#33410;&#28857;&#30340;&#38190;&#20540;&#26102;&#20026;&#26368;&#22823;&#22534;&#65288;&#22823;&#39030;&#22534;&#65289;&#12290; &#24403;&#29238;&#33410;&#28857;&#30340;&#38190;&#20540;&#24635;&#26159;&#23567;&#20110;&#25110;&#31561;&#20110;&#20219;&#20309;&#19968;&#20010;&#23376;&#33410;&#28857;&#30340;&#38190;&#20540;&#26102;&#20026;&#26368;&#23567;&#22534;&#65288;&#23567;&#39030;&#22534;&#65289;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1511926018369" FOLDED="true" ID="ID_338885100" MODIFIED="1520319580693" POSITION="left" TEXT="&#x7f16;&#x7801;">
+<node CREATED="1511926018369" FOLDED="true" ID="ID_338885100" MODIFIED="1522322734854" POSITION="left" TEXT="&#x7f16;&#x7801;">
 <node CREATED="1511926026181" ID="ID_1959615236" MODIFIED="1511926272327">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4199,8 +4198,7 @@
       &#29616;&#26377;&#27169;&#22359;&#37117;&#21487;&#20197;&#20351;&#29992;import&#21152;&#36733;&#65292;&#20250;&#23558;module.exports&#24403;&#20570;&#40664;&#35748;&#36755;&#20986;&#23548;&#20837;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4577,8 +4575,7 @@
       3&#12289;&#25163;&#26426;SSO
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

@@ -14,11 +14,11 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1504268387092" ID="ID_1491315764" MODIFIED="1521785131645" POSITION="right" TEXT="&#x6982;&#x5ff5;">
+<node CREATED="1504268387092" ID="ID_1491315764" MODIFIED="1522748139983" POSITION="right" TEXT="&#x6982;&#x5ff5;">
 <node CREATED="1504268409736" ID="ID_767008834" MODIFIED="1504268451364" TEXT="&#x5165;&#x53e3;&#xff08;Entry&#xff09;&#xff1a;&#x521b;&#x5efa;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x6240;&#x6709;&#x4f9d;&#x8d56;&#x56fe;&#x7684;&#x8d77;&#x70b9;"/>
 <node CREATED="1504268494861" ID="ID_1882002291" MODIFIED="1504268528192" TEXT="&#x51fa;&#x53e3;&#xff08;Output&#xff09;&#xff1a;&#x63cf;&#x8ff0;&#x5982;&#x4f55;&#x5904;&#x7406;&#x5f52;&#x6863;&#x540e;&#x7684;&#x4ee3;&#x7801;"/>
 <node CREATED="1504268575066" ID="ID_1880959429" MODIFIED="1521785194013" TEXT="&#x52a0;&#x8f7d;&#x5668;&#xff08;Loader&#xff09;&#xff1a;webpack&#x53ea;&#x7406;&#x89e3;Javascript&#xff0c;&#x56e0;&#x6b64;&#x5176;&#x4ed6;&#x7c7b;&#x578b;&#x6587;&#x4ef6;&#x52a0;&#x5165;&#x4f9d;&#x8d56;&#x65f6;&#xff0c;&#x9700;&#x8981;&#x501f;&#x52a9;loader&#x5c06;&#x5176;&#x8f6c;&#x6362;&#x4e3a;&#x53ef;&#x7406;&#x89e3;&#x7684;&#x6a21;&#x5757;&#xa;&#x591a;&#x4e2a;loader&#x662f;&#x4ece;&#x540e;&#x5f80;&#x524d;&#x6267;&#x884c;&#x7684;&#xa;loader&#x7684;&#x4f5c;&#x7528;&#x662f;&#x5c06;&#x6587;&#x4ef6;&#x5185;&#x5bb9;&#x5904;&#x7406;&#x4e3a;JS"/>
-<node CREATED="1504268750294" ID="ID_1889497808" MODIFIED="1504268882703" TEXT="&#x63d2;&#x4ef6;&#xff08;Plugin&#xff09;&#xff1a;Loader&#x7528;&#x4e8e;&#x6267;&#x884c;&#x8f6c;&#x6362;&#xff0c;Plugin&#x66f4;&#x5e38;&#x7528;&#x4e8e;&#xff08;&#x4f46;&#x4e0d;&#x9650;&#x4e8e;&#xff09;&#x5728;&#x6253;&#x5305;&#x6a21;&#x5757;&#x7684; &#x201c;compilation&#x201d; &#x548c; &#x201c;chunk&#x201d; &#x751f;&#x547d;&#x5468;&#x671f;&#x6267;&#x884c;&#x64cd;&#x4f5c;&#x548c;&#x81ea;&#x5b9a;&#x4e49;&#x529f;&#x80fd;"/>
+<node CREATED="1504268750294" ID="ID_1889497808" MODIFIED="1522133908456" TEXT="&#x63d2;&#x4ef6;&#xff08;Plugin&#xff09;&#xff1a;Loader&#x7528;&#x4e8e;&#x6267;&#x884c;&#x8f6c;&#x6362;&#xff0c;Plugin&#x66f4;&#x5e38;&#x7528;&#x4e8e;&#xff08;&#x4f46;&#x4e0d;&#x9650;&#x4e8e;&#xff09;&#x5728;&#x6253;&#x5305;&#x6a21;&#x5757;&#x7684; &#x201c;compilation&#x201d; &#x548c; &#x201c;chunk&#x201d; &#x751f;&#x547d;&#x5468;&#x671f;&#x6267;&#x884c;&#x64cd;&#x4f5c;&#x548c;&#x81ea;&#x5b9a;&#x4e49;&#x529f;&#x80fd;&#xa;A&#x63d2;&#x4ef6;&#x5185;&#x90e8;&#x53ef;&#x4ee5;&#x8c03;&#x7528;B&#x63d2;&#x4ef6;&#xff0c;&#x524d;&#x63d0;&#x662f;B&#x63d2;&#x4ef6;&#x7684;&#x94a9;&#x5b50;&#x5728;A&#x63d2;&#x4ef6;&#x94a9;&#x5b50;&#x4e4b;&#x540e;&#x89e6;&#x53d1;"/>
 <node CREATED="1510137762804" ID="ID_1279607936" MODIFIED="1510137887207" TEXT="Chunk&#xff1a;&#x6bcf;&#x4e2a;entry&#x5bf9;&#x5e94;&#x4e00;&#x4e2a;chunk&#xff0c;import()&#x4e5f;&#x4f1a;&#x4ea7;&#x751f;&#x4e00;&#x4e2a;chunk&#xff0c;&#x4e00;&#x822c;&#x4e00;&#x4e2a;chunk&#x5bf9;&#x5e94;&#x4e00;&#x4e2a;asset&#xff0c;&#x4e0d;&#x8fc7;&#x6709;&#x65f6;&#x4e00;&#x4e9b;&#x63d2;&#x4ef6;&#x4f1a;&#x6539;&#x53d8;&#x6700;&#x7ec8;&#x7684;asset&#xff0c;&#x6240;&#x4ee5;&#x4e0d;&#x4e00;&#x5b9a;&#x4e00;&#x4e00;&#x5bf9;&#x5e94;&#x7684;&#x5173;&#x7cfb;&#xff0c;&#x4e00;&#x4e2a;chunk&#x53ef;&#x80fd;&#x4f1a;&#x5305;&#x62ec;&#x4e00;&#x4e9b;module"/>
 <node CREATED="1510137768994" ID="ID_1982485308" MODIFIED="1521512240918" TEXT="Module&#xff1a;&#x6bcf;&#x4e2a;&#x52a0;&#x8f7d;&#x7684;&#x6587;&#x4ef6;&#x5bf9;&#x5e94;&#x4e00;&#x4e2a;module&#xff08;&#x7c7b;&#x4f3c;NodeJS&#x7684;&#x6a21;&#x5757;&#xff09;&#xff0c;&#x4e00;&#x4e2a;module&#x53ef;&#x80fd;&#x4f9d;&#x9644;&#x4e8e;&#x591a;&#x4e2a;chunk"/>
 <node CREATED="1504772043697" ID="ID_717546906" MODIFIED="1504772101764">
@@ -68,8 +68,7 @@
       &#23376;&#32534;&#35793;&#22120;&#26377;&#20851;&#65292;Compiler&#23454;&#20363;&#21487;&#20197;&#21019;&#24314;&#23376;&#32534;&#35793;&#22120;&#23454;&#20363;&#65292;&#21019;&#24314;&#26102;&#23376;&#32534;&#35793;&#22120;&#20250;&#22797;&#21046;&#29238;&#32534;&#35793;&#22120;&#30340;&#20219;&#21153;&#28857;&#30417;&#21548;&#22120;&#12290;&#20219;&#21153;&#28857; compilation &#30340;&#30417;&#21548;&#22120;&#20250;&#34987;&#22797;&#21046;&#65292;&#32780;&#20219;&#21153;&#28857; thisCompilation &#30340;&#30417;&#21548;&#22120;&#19981;&#20250;&#34987;&#22797;&#21046;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1504579500901" FOLDED="true" ID="ID_1997673034" MODIFIED="1521629517900" POSITION="right" TEXT="&#x6307;&#x5357;">
@@ -1499,7 +1498,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504972061061" FOLDED="true" ID="ID_1536379514" MODIFIED="1520317438474" POSITION="right" TEXT="&#x5e38;&#x7528;Plugin">
+<node CREATED="1504972061061" FOLDED="true" ID="ID_1536379514" MODIFIED="1522718146331" POSITION="right" TEXT="&#x5e38;&#x7528;Plugin">
 <node CREATED="1505120054288" ID="ID_1324137279" MODIFIED="1505193523638">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1599,8 +1598,375 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1522287858308" ID="ID_755183430" MODIFIED="1522287926166">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      HtmlWebpackPlugin
+    </p>
+    <p>
+      1&#12289;&#23558;js asset&#21152;&#20837;&#21040;html&lt;/body&gt;&#20043;&#21069;
+    </p>
+    <p>
+      2&#12289;&#22914;&#26524;&#26377;css asset&#65292;&#20063;&#20250;&#21152;&#20837;&#21040;html&#20013;
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1520560800515" ID="ID_211616033" MODIFIED="1520560805004" POSITION="right" TEXT="&#x6e90;&#x7801;"/>
+</node>
+<node CREATED="1520560800515" FOLDED="true" ID="ID_211616033" MODIFIED="1522718143619" POSITION="right" TEXT="&#x6e90;&#x7801;">
+<node CREATED="1522044857117" ID="ID_1928312295" MODIFIED="1522305057629">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#38057;&#23376;
+    </p>
+    <p>
+      &#19968;&#12289;Compiler&#30340;&#38057;&#23376;
+    </p>
+    <p>
+      environment
+    </p>
+    <p>
+      afterEnvironment
+    </p>
+    <p>
+      entryOption(context, entry)
+    </p>
+    <p>
+      afterPlugins(compiler)
+    </p>
+    <p>
+      afterResolvers(compiler)
+    </p>
+    <p>
+      beforeRun(compiler)
+    </p>
+    <p>
+      run(compiler)
+    </p>
+    <p>
+      nomalModuleFactory(normalModuleFactory)
+    </p>
+    <p>
+      contextModuleFactory(contextModuleFactory)
+    </p>
+    <p>
+      beforeCompile(compilationParams)
+    </p>
+    <p>
+      compile(compilationParams)
+    </p>
+    <p>
+      thisCompilation(compilation, compilationParams)
+    </p>
+    <p>
+      compilation(compilation, compilationParams)
+    </p>
+    <p>
+      make(compilation)
+    </p>
+    <p>
+      afterCompile(compilation)
+    </p>
+    <p>
+      shouldEmit(compilation)
+    </p>
+    <p>
+      emit(compilation)&#65306;&#22312;&#29983;&#25104;&#25991;&#20214;&#20043;&#21069;&#35302;&#21457;&#65292;&#21487;&#20197;&#22312;&#36825;&#37324;&#26032;&#22686;&#20854;&#20182;&#25991;&#20214;&#65288;&#22914;html-webpack-plugin&#23601;&#26159;&#22312;&#36825;&#37324;&#32452;&#35013;&#26368;&#32456;&#30340;html&#65289;
+    </p>
+    <p>
+      afterEmit(compilation)
+    </p>
+    <p>
+      done(stats)
+    </p>
+    <p>
+      &#20108;&#12289;Compilation&#30340;&#38057;&#23376;&#65288;&#27599;&#20010;&#27169;&#22359;&#25191;&#34892;&#19968;&#27425;&#65289;
+    </p>
+    <p>
+      buildModule(normalModule)
+    </p>
+    <p>
+      normalModuleLoader(loaderContext, normalModule)
+    </p>
+    <p>
+      succeedModule(normalModule)
+    </p>
+    <p>
+      finishModules(
+    </p>
+    <p>
+      seal(
+    </p>
+    <p>
+      optimizeDependenciesBasic(modules)
+    </p>
+    <p>
+      optimizeDependencies(modules)
+    </p>
+    <p>
+      optimizeDependenciesAdvanced(modules)
+    </p>
+    <p>
+      afterOptimizeDependencies(modules)
+    </p>
+    <p>
+      optimize()
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1522218168799" ID="ID_1744561804" MODIFIED="1522226961205">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Compiler&#25509;&#21475;&#65288;&#32487;&#25215;Tapable&#65289;
+    </p>
+    <p>
+      &#19968;&#12289;&#23646;&#24615;
+    </p>
+    <p>
+      hooks
+    </p>
+    <p>
+      outputPath
+    </p>
+    <p>
+      outputFileSystem
+    </p>
+    <p>
+      inputFileSystem
+    </p>
+    <p>
+      recordsInputPath
+    </p>
+    <p>
+      recordsOutputPath
+    </p>
+    <p>
+      records
+    </p>
+    <p>
+      fileTimestamps
+    </p>
+    <p>
+      contextTimestamps
+    </p>
+    <p>
+      resolverFactory
+    </p>
+    <p>
+      resolvers&#65306;&#23558;&#22312;webpack5&#20013;&#31227;&#38500;
+    </p>
+    <p>
+      options
+    </p>
+    <p>
+      context
+    </p>
+    <p>
+      requestShortener
+    </p>
+    <p>
+      running&#65306;&#26159;&#21542;&#27491;&#22312;&#36816;&#34892;
+    </p>
+    <p>
+      parentCompilation
+    </p>
+    <p>
+      &#20108;&#12289;&#26041;&#27861;
+    </p>
+    <p>
+      constructor(context)
+    </p>
+    <p>
+      watch(watchOptions, handler)
+    </p>
+    <p>
+      run(callback)
+    </p>
+    <p>
+      runAsChild(callback)
+    </p>
+    <p>
+      prugeInputFileSystem()
+    </p>
+    <p>
+      emitAssets(compilation, callback)
+    </p>
+    <p>
+      emitRecords(callback)
+    </p>
+    <p>
+      readRecords(callback)
+    </p>
+    <p>
+      createChildCompiler(compilation, compilerName, compilerIndex, outputOptions, plugins)
+    </p>
+    <p>
+      isChild()
+    </p>
+    <p>
+      createCompilation()
+    </p>
+    <p>
+      newCompilation(params)
+    </p>
+    <p>
+      createNormalModuleFactory()
+    </p>
+    <p>
+      createContextModuleFactory()
+    </p>
+    <p>
+      newCompilationParams()
+    </p>
+    <p>
+      compile(callback)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1522228223464" ID="ID_285400763" MODIFIED="1522229024920">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Compilation&#25509;&#21475;&#65288;&#32487;&#25215;Tapable&#65289;
+    </p>
+    <p>
+      &#19968;&#12289;&#23646;&#24615;
+    </p>
+    <p>
+      &#20108;&#12289;&#26041;&#27861;
+    </p>
+    <p>
+      constructor(compiler)
+    </p>
+    <p>
+      getStats()
+    </p>
+    <p>
+      addModule(module, cacheGroup)
+    </p>
+    <p>
+      getModule(module)
+    </p>
+    <p>
+      findModule(identifier)
+    </p>
+    <p>
+      waitForBuildingFinished(module, callback)
+    </p>
+    <p>
+      buildModule(module, optional, origin, dependencies, thisCallback)
+    </p>
+    <p>
+      processModuleDependencies(module, callback)
+    </p>
+    <p>
+      addModuleDependencies(module, dependencies, bail, cacheGroup, recursive, callback)
+    </p>
+    <p>
+      addEntry(context, entry, name, callback)
+    </p>
+    <p>
+      prefetch(context, dependency, callback)
+    </p>
+    <p>
+      rebuildModule(module, thisCallback)
+    </p>
+    <p>
+      finish()
+    </p>
+    <p>
+      unseal()
+    </p>
+    <p>
+      seal(callback)
+    </p>
+    <p>
+      sortModules(modules)
+    </p>
+    <p>
+      reportDependencyErrorsAndWarnings(module, blocks)
+    </p>
+    <p>
+      addChunkInGroup(name, module, loc, request)
+    </p>
+    <p>
+      addChunk(name)
+    </p>
+    <p>
+      assignIndex(module)
+    </p>
+    <p>
+      assignDepth(module)
+    </p>
+    <p>
+      processDependenciesBlocksForChunkGroups(inputChunkGroups)
+    </p>
+    <p>
+      removeReasonsOfDependencyBlock(module, block)
+    </p>
+    <p>
+      patchChunksAfterReasonRemoval(module, chunk)
+    </p>
+    <p>
+      removeChunkFromDependencies(block, chunk)
+    </p>
+    <p>
+      applyModuleIds()
+    </p>
+    <p>
+      applyChunkIds()
+    </p>
+    <p>
+      sortItemsWithModuleIds()
+    </p>
+    <p>
+      sortItemsWithChunkIds()
+    </p>
+    <p>
+      summarizeDependencies()
+    </p>
+    <p>
+      createHash()
+    </p>
+    <p>
+      modifyHash(update)
+    </p>
+    <p>
+      createModuleAssets()
+    </p>
+    <p>
+      createChunkAssets()
+    </p>
+    <p>
+      getPath(filename, data)
+    </p>
+    <p>
+      createChildCompiler(name, outputOptions, plugins)
+    </p>
+    <p>
+      checkConstraints()
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 <node CREATED="1504269587178" FOLDED="true" ID="ID_600533348" MODIFIED="1510832148587" POSITION="left" TEXT="&#x5165;&#x53e3;Entry">
 <node CREATED="1504270932048" ID="ID_169813764" MODIFIED="1504402160370">
 <richcontent TYPE="NODE"><html>
@@ -1714,7 +2080,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504402540126" FOLDED="true" ID="ID_1043891543" MODIFIED="1520316280749" POSITION="left" TEXT="&#x8f93;&#x51fa;Output">
+<node CREATED="1504402540126" FOLDED="true" ID="ID_1043891543" MODIFIED="1522718148665" POSITION="left" TEXT="&#x8f93;&#x51fa;Output">
 <node CREATED="1504402612776" ID="ID_1964015256" MODIFIED="1508603156397">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2001,7 +2367,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504403880871" FOLDED="true" ID="ID_769710492" MODIFIED="1521545860792" POSITION="left" TEXT="&#x63d2;&#x4ef6;Plugin">
+<node CREATED="1504403880871" FOLDED="true" ID="ID_769710492" MODIFIED="1522135564985" POSITION="left" TEXT="&#x63d2;&#x4ef6;Plugin">
 <node CREATED="1504404513231" ID="ID_1842867540" MODIFIED="1504404681511">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2165,7 +2531,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504405660134" FOLDED="true" ID="ID_513078166" MODIFIED="1510137279053" POSITION="left" TEXT="&#x6a21;&#x5757;Modules">
+<node CREATED="1504405660134" FOLDED="true" ID="ID_513078166" MODIFIED="1522135566676" POSITION="left" TEXT="&#x6a21;&#x5757;Modules">
 <node CREATED="1504405676911" ID="ID_17004077" MODIFIED="1510137275669">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2200,7 +2566,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504406048209" FOLDED="true" ID="ID_1254235175" MODIFIED="1510137221357" POSITION="left" TEXT="&#x6a21;&#x5757;&#x89e3;&#x6790;">
+<node CREATED="1504406048209" FOLDED="true" ID="ID_1254235175" MODIFIED="1522135570147" POSITION="left" TEXT="&#x6a21;&#x5757;&#x89e3;&#x6790;">
 <node CREATED="1504406079540" ID="ID_299082872" MODIFIED="1504406693437">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2313,7 +2679,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504538475782" FOLDED="true" ID="ID_144682829" MODIFIED="1510137309707" POSITION="left">
+<node CREATED="1504538475782" FOLDED="true" ID="ID_144682829" MODIFIED="1522135572388" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2412,7 +2778,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504538986490" FOLDED="true" ID="ID_1872274722" MODIFIED="1521511212546" POSITION="left" TEXT="&#x6784;&#x5efa;&#x76ee;&#x6807;Target">
+<node CREATED="1504538986490" FOLDED="true" ID="ID_1872274722" MODIFIED="1522135574938" POSITION="left" TEXT="&#x6784;&#x5efa;&#x76ee;&#x6807;Target">
 <node CREATED="1504539066696" ID="ID_112812714" MODIFIED="1504539071567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2543,7 +2909,201 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504539220057" FOLDED="true" ID="ID_1226966226" MODIFIED="1521527739784" POSITION="left" TEXT="&#x6a21;&#x5757;&#x70ed;&#x66ff;&#x6362;">
+<node CREATED="1504539220057" FOLDED="true" ID="ID_1226966226" MODIFIED="1522744433962" POSITION="left" TEXT="&#x6a21;&#x5757;&#x70ed;&#x66ff;&#x6362;">
+<node CREATED="1522719979214" ID="ID_1221053285" MODIFIED="1522738063397">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#22914;&#20309;&#37197;&#32622;HMR
+    </p>
+    <p>
+      &#19968;&#12289;&#20960;&#31181;Watch&#27169;&#24335;&#27604;&#36739;
+    </p>
+    <p>
+      &#65288;&#19968;&#65289;&#12289;Webpack Mode&#65292;&#21551;&#21160;webpack&#20043;&#21518;&#23427;&#20250;&#30417;&#21548;&#26412;&#22320;&#25991;&#20214;&#21464;&#21270;&#65292;&#22914;&#26524;&#21464;&#21270;&#21017;&#37325;&#26032;&#32534;&#35793;&#65292;&#19981;&#36807;&#38656;&#35201;&#20877;&#25163;&#21160;&#21047;&#26032;&#19968;&#19979;&#27983;&#35272;&#22120;&#12290;
+    </p>
+    <p>
+      webpack --watch
+    </p>
+    <p>
+      &#65288;&#20108;&#65289;&#12289;webpack-dev-server
+    </p>
+    <p>
+      &#65288;1&#65289;&#12289;&#23433;&#35013;
+    </p>
+    <p>
+      npm install --save-dev webpack-dev-server
+    </p>
+    <p>
+      &#65288;2&#65289;&#12289;&#37197;&#32622;&#65292;&#21578;&#30693;webpack-dev-server&#22312;./dist&#30446;&#24405;&#30340;&#22522;&#30784;&#19978;&#25552;&#20379;localhost:8080 http&#26381;&#21153;
+    </p>
+    <p>
+      + devServer: {
+    </p>
+    <p>
+      + contentBase: './dist'
+    </p>
+    <p>
+      + },
+    </p>
+    <p>
+      &#65288;3&#65289;&#12289;&#24555;&#25463;&#26041;&#24335;
+    </p>
+    <p>
+      + &quot;start&quot;: &quot;webpack-dev-server --open&quot;,
+    </p>
+    <p>
+      &#65288;&#19977;&#65289;&#12289;webpack-dev-middleware&#65292;&#36825;&#20010;&#25552;&#20379;&#20102;&#19968;&#20010;&#20013;&#38388;&#20214;&#65292;webpack-dev-server&#20869;&#37096;&#20351;&#29992;&#20102;&#23427;&#65292;&#21487;&#20197;&#20351;&#29992;&#23427;&#26469;&#23450;&#20041;&#33258;&#24049;&#30340;dev-server&#65292;&#27604;&#22914;&#36319;express&#32467;&#21512;&#20351;&#29992;&#12290;
+    </p>
+    <p>
+      &#20108;&#12289;&#21551;&#29992;HMR
+    </p>
+    <p>
+      &#65288;&#19968;&#65289;&#12289;&#28155;&#21152;hot: true&#37197;&#32622;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;devServer: {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;contentBase: './dist',
+    </p>
+    <p>
+      +&#160;&#160;&#160;&#160;&#160;hot: true
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;},
+    </p>
+    <p>
+      &#65288;&#20108;&#65289;&#12289;&#28155;&#21152;HMR&#25554;&#20214;
+    </p>
+    <p>
+      + new webpack.HotModuleReplacementPlugin()
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1522742338556" ID="ID_405615132" MODIFIED="1522744428117">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      HMR&#30456;&#20851;&#25509;&#21475;
+    </p>
+    <p>
+      &#19968;&#12289;accept&#65292;&#25509;&#21463;&#29305;&#23450;&#20381;&#36182;&#30340;&#21464;&#26356;
+    </p>
+    <p>
+      module.hot.accept(
+    </p>
+    <p>
+      &#160;&#160;dependencies, // Either a string or an array of strings
+    </p>
+    <p>
+      &#160;&#160;callback // Function to fire when the dependencies are updated
+    </p>
+    <p>
+      )
+    </p>
+    <p>
+      &#20108;&#12289;decline&#65292;&#25298;&#32477;&#26576;&#20123;&#20381;&#36182;&#30340;&#26356;&#26032;
+    </p>
+    <p>
+      module.hot.decline(
+    </p>
+    <p>
+      &#160;&#160;dependencies // Either a string or an array of strings
+    </p>
+    <p>
+      )
+    </p>
+    <p>
+      &#19977;&#12289;dispose&#25110;addDisposeHandler&#65292;&#24403;&#24403;&#21069;&#27169;&#22359;&#21464;&#26356;&#26102;&#35302;&#21457;&#65292;&#27492;&#26102;&#38656;&#35201;&#28165;&#29702;&#19968;&#20123;&#25345;&#20037;&#30340;&#23384;&#20648;
+    </p>
+    <p>
+      module.hot.dispose(data =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// Clean up and pass data to the updated module...
+    </p>
+    <p>
+      })
+    </p>
+    <p>
+      &#22235;&#12289;removeDisposeHandler&#65292;&#31227;&#38500;&#36890;&#36807;dispose/addDisposeHandler&#28155;&#21152;&#30340;&#21477;&#26564;
+    </p>
+    <p>
+      module.hot.removeDisposeHandler(callback)
+    </p>
+    <p>
+      &#20116;&#12289;status&#65292;&#33719;&#21462;&#21040;HMR&#30340;&#36827;&#24230;
+    </p>
+    <p>
+      module.hot.status() // Will return one of the following strings...
+    </p>
+    <p>
+      &#20845;&#12289;check&#65292;&#26816;&#26597;&#25152;&#26377;&#27169;&#22359;&#26159;&#21542;&#26377;&#26356;&#26032;&#65292;&#22914;&#26524;&#26377;&#65292;&#21017;&#35843;&#29992;apply&#26041;&#27861;&#24212;&#29992;&#20182;&#20204;&#65292;autoApply&#21487;&#20197;&#26159;&#24067;&#23572;&#22411;&#25110;&#32773;&#26159;&#19968;&#20010;object&#36873;&#39033;&#65292;&#29992;&#20110;&#20256;&#36882;&#32473;apply&#26041;&#27861;
+    </p>
+    <p>
+      module.hot.check(autoApply).then(outdatedModules =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// outdated modules...
+    </p>
+    <p>
+      }).catch(error =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// catch errors
+    </p>
+    <p>
+      });
+    </p>
+    <p>
+      &#19971;&#12289;apply&#65292;&#32487;&#32493;&#26356;&#26032;&#36827;&#31243;&#65292;&#21482;&#35201;HMR&#30340;&#29366;&#24577;&#26159;ready
+    </p>
+    <p>
+      module.hot.apply(options).then(outdatedModules =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// outdated modules...
+    </p>
+    <p>
+      }).catch(error =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// catch errors
+    </p>
+    <p>
+      });
+    </p>
+    <p>
+      &#20843;&#12289;addStatusHandler&#65292;&#29366;&#24577;&#21464;&#26356;&#26102;&#22238;&#35843;
+    </p>
+    <p>
+      module.hot.addStatusHandler(status =&gt; {
+    </p>
+    <p>
+      &#160;&#160;// React to the current status...
+    </p>
+    <p>
+      })
+    </p>
+    <p>
+      &#20061;&#12289;removeStatusHandler&#65292;&#31227;&#38500;&#29366;&#24577;&#22238;&#35843;
+    </p>
+    <p>
+      module.hot.removeStatusHandler(callback)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1504539262573" ID="ID_1472697139" MODIFIED="1504539267439">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2601,14 +3161,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1504539522534" ID="ID_1281906545" MODIFIED="1504539538908">
+<node CREATED="1504539522534" ID="ID_1281906545" MODIFIED="1522718475925">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#22312;&#32534;&#35793;&#22120;&#20013;
+      &#22312;&#32534;&#35793;&#22120;&#65288;Compiler&#65289;&#20013;
     </p>
     <p>
       &#38500;&#20102;&#26222;&#36890;&#36164;&#28304;&#65292;&#32534;&#35793;&#22120;(compiler)&#38656;&#35201;&#21457;&#20986; &quot;update&quot;&#65292;&#20197;&#20801;&#35768;&#26356;&#26032;&#20043;&#21069;&#30340;&#29256;&#26412;&#21040;&#26032;&#30340;&#29256;&#26412;&#12290;&quot;update&quot; &#30001;&#20004;&#37096;&#20998;&#32452;&#25104;&#65306;
@@ -2632,7 +3192,8 @@
       &#32534;&#35793;&#22120;&#30830;&#20445;&#27169;&#22359; ID &#21644; chunk ID &#22312;&#36825;&#20123;&#26500;&#24314;&#20043;&#38388;&#20445;&#25345;&#19968;&#33268;&#12290;&#36890;&#24120;&#23558;&#36825;&#20123; ID &#23384;&#20648;&#22312;&#20869;&#23384;&#20013;&#65288;&#20363;&#22914;&#65292;&#20351;&#29992; webpack-dev-server &#26102;&#65289;&#65292;&#20294;&#26159;&#20063;&#21487;&#33021;&#23558;&#23427;&#20204;&#23384;&#20648;&#22312;&#19968;&#20010; JSON &#25991;&#20214;&#20013;&#12290;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1504539603096" ID="ID_1019995475" MODIFIED="1504539618990">
 <richcontent TYPE="NODE"><html>
