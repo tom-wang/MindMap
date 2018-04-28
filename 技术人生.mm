@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1509096362295" ID="ID_1201275124" MODIFIED="1512313526472" TEXT="&#x6280;&#x672f;&#x4eba;&#x751f;">
-<node CREATED="1512124733614" ID="ID_681975519" MODIFIED="1522808876436" POSITION="right" TEXT="&#x6280;&#x672f;&#x7ba1;&#x7406;">
+<node CREATED="1512124733614" FOLDED="true" ID="ID_681975519" MODIFIED="1523241159160" POSITION="right" TEXT="&#x6280;&#x672f;&#x7ba1;&#x7406;">
 <node CREATED="1512124756322" ID="ID_1126544043" MODIFIED="1519811145902">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4202,8 +4202,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1511795339851" FOLDED="true" ID="ID_488191771" MODIFIED="1518074546090" POSITION="left" TEXT="&#x6293;&#x5305;">
-<node CREATED="1511795353582" FOLDED="true" ID="ID_326667552" MODIFIED="1518074350430" TEXT="Charles">
+<node CREATED="1511795339851" ID="ID_488191771" MODIFIED="1523345582758" POSITION="left" TEXT="&#x6293;&#x5305;">
+<node CREATED="1511795353582" ID="ID_326667552" MODIFIED="1523352074664" TEXT="Charles">
 <node CREATED="1512219153537" ID="ID_1285827412" MODIFIED="1512219172266">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4255,7 +4255,7 @@
 </node>
 </node>
 <node CREATED="1511795360662" ID="ID_1278311839" MODIFIED="1511795363734" TEXT="Fiddler"/>
-<node CREATED="1511926293875" FOLDED="true" ID="ID_878327414" MODIFIED="1517224453881" TEXT="WireShark">
+<node CREATED="1511926293875" FOLDED="true" ID="ID_878327414" MODIFIED="1523346843919" TEXT="WireShark">
 <node CREATED="1512359533358" ID="ID_1393755281" MODIFIED="1512380232450">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4404,8 +4404,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1511874931935" FOLDED="true" ID="ID_985014306" MODIFIED="1517224455798" TEXT="tcpdump">
-<node CREATED="1513696772394" ID="ID_795461495" MODIFIED="1513696778914">
+<node CREATED="1511874931935" FOLDED="true" ID="ID_985014306" MODIFIED="1523352073374" TEXT="tcpdump">
+<node CREATED="1513696772394" ID="ID_795461495" MODIFIED="1523346413090">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4456,8 +4456,15 @@
     <p>
       &#65288;3&#65289;&#12289;expression&#65306;&#22914;&#26524;&#25552;&#20379;&#20102;&#34920;&#36798;&#24335;&#65292;&#21482;&#26377;&#31526;&#21512;&#34920;&#36798;&#24335;&#30340;&#21253;&#25165;&#20250;&#34987;&#25171;&#21360;&#20986;&#26469;&#65292;&#35814;&#32454;&#30340;&#34920;&#36798;&#24335;&#35268;&#21017;&#21442;&#32771;pcap-filter&#25991;&#26723;
     </p>
+    <p>
+      &#65288;4&#65289;&#12289;&#24555;&#25463;&#21629;&#20196;
+    </p>
+    <p>
+      tcpdump -i en0 &#8216;dst port 8081 and dst host 127.0.0.1&#8217; =&gt;&#25235;&#21462;&#30446;&#26631;&#31471;&#21475;&#26159;8081&#30340;&#21253;
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -4576,6 +4583,27 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node CREATED="1523241206280" ID="ID_1173318956" MODIFIED="1523241208761" POSITION="left" TEXT="&#x7f16;&#x8f91;&#x5668;">
+<node CREATED="1523241212690" ID="ID_602935292" MODIFIED="1523259924394">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#19968;&#12289;vscode
+    </p>
+    <p>
+      1&#12289;&#22914;&#20309;&#31614;&#20986;&#20998;&#25903;&#65311;
+    </p>
+    <p>
+      &#22312;&#24038;&#19979;&#35282;&#65292;&#21487;&#20197;&#31614;&#20986;&#20998;&#25903;&#25110;&#32773;&#21019;&#24314;&#20998;&#25903;
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
