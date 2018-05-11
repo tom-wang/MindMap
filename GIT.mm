@@ -27,8 +27,7 @@
       git config --global user.email [email]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1504182361740" ID="ID_1600167789" MODIFIED="1510048354135" POSITION="right" TEXT="&#x57fa;&#x672c;&#x6982;&#x5ff5;">
@@ -50,7 +49,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1504184914015" FOLDED="true" ID="ID_1874952278" MODIFIED="1523330019437" POSITION="right" TEXT="&#x8d77;&#x6b65;">
+<node CREATED="1504184914015" FOLDED="true" ID="ID_1874952278" MODIFIED="1525402339605" POSITION="right" TEXT="&#x8d77;&#x6b65;">
 <node CREATED="1504185124559" ID="ID_863811547" MODIFIED="1504185187830" TEXT="git&#x662f;&#x5206;&#x5e03;&#x5f0f;&#x7248;&#x672c;&#x63a7;&#x5236;&#x5de5;&#x5177;&#xff0c;&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;&#x4f1a;&#x5b8c;&#x6574;&#x955c;&#x50cf;&#x5230;&#x6bcf;&#x4e00;&#x4e2a;&#x5ba2;&#x6237;&#x7aef;&#x673a;&#x5668;&#x4e0a;&#xff0c;&#x5c31;&#x7b97;&#x8fdc;&#x7a0b;&#x5e93;&#x4e22;&#x5931;&#x4e5f;&#x80fd;&#x5f88;&#x5feb;&#x4ece;&#x67d0;&#x4e00;&#x4e2a;&#x5ba2;&#x6237;&#x7aef;&#x6062;&#x590d;&#x56de;&#x6765;"/>
 <node CREATED="1504185194038" ID="ID_1462960599" MODIFIED="1504185268756" TEXT="git&#x76f4;&#x63a5;&#x8bb0;&#x5f55;&#x5feb;&#x7167;&#xff0c;&#x4e5f;&#x5c31;&#x662f;&#x8bf4;&#x6bcf;&#x4e00;&#x6b21;&#x63d0;&#x4ea4;&#x90fd;&#x628a;&#x6240;&#x6709;&#x6587;&#x4ef6;&#x5907;&#x4efd;&#x4e00;&#x904d;&#xff0c;&#x53ea;&#x662f;&#x6ca1;&#x6709;&#x53d8;&#x66f4;&#x7684;&#x6587;&#x4ef6;&#x8fd8;&#x53ef;&#x4ee5;&#x6307;&#x5411;&#x4e4b;&#x524d;&#x5907;&#x4efd;&#x8fc7;&#x7684;&#x6587;&#x4ef6;"/>
 <node CREATED="1504185868304" ID="ID_1042094494" MODIFIED="1504191855043">
@@ -70,7 +69,7 @@
 </node>
 <node CREATED="1504192110204" ID="ID_205311965" MODIFIED="1504192112022" TEXT="Git &#x63d0;&#x4f9b;&#x4e86;&#x4e00;&#x4e2a;&#x53eb;&#x505a;&#xa0;git config&#xa0;&#x7684;&#x5de5;&#x5177;&#xff08;&#x8bd1;&#x6ce8;&#xff1a;&#x5b9e;&#x9645;&#x662f;&#xa0;git-config&#xa0;&#x547d;&#x4ee4;&#xff0c;&#x53ea;&#x4e0d;&#x8fc7;&#x53ef;&#x4ee5;&#x901a;&#x8fc7;&#xa0;git&#xa0;&#x52a0;&#x4e00;&#x4e2a;&#x540d;&#x5b57;&#x6765;&#x547c;&#x53eb;&#x6b64;&#x547d;&#x4ee4;&#x3002;&#xff09;&#xff0c;&#x4e13;&#x95e8;&#x7528;&#x6765;&#x914d;&#x7f6e;&#x6216;&#x8bfb;&#x53d6;&#x76f8;&#x5e94;&#x7684;&#x5de5;&#x4f5c;&#x73af;&#x5883;&#x53d8;&#x91cf;&#x3002;&#x800c;&#x6b63;&#x662f;&#x7531;&#x8fd9;&#x4e9b;&#x73af;&#x5883;&#x53d8;&#x91cf;&#xff0c;&#x51b3;&#x5b9a;&#x4e86; Git &#x5728;&#x5404;&#x4e2a;&#x73af;&#x8282;&#x7684;&#x5177;&#x4f53;&#x5de5;&#x4f5c;&#x65b9;&#x5f0f;&#x548c;&#x884c;&#x4e3a;&#x3002;&#x8fd9;&#x4e9b;&#x53d8;&#x91cf;&#x53ef;&#x4ee5;&#x5b58;&#x653e;&#x5728;&#x4ee5;&#x4e0b;&#x4e09;&#x4e2a;&#x4e0d;&#x540c;&#x7684;&#x5730;&#x65b9;&#xff1a; /etc/gitconfig&#xa0;&#x6587;&#x4ef6;&#xff1a;&#x7cfb;&#x7edf;&#x4e2d;&#x5bf9;&#x6240;&#x6709;&#x7528;&#x6237;&#x90fd;&#x666e;&#x904d;&#x9002;&#x7528;&#x7684;&#x914d;&#x7f6e;&#x3002;&#x82e5;&#x4f7f;&#x7528;&#xa0;git config&#xa0;&#x65f6;&#x7528;&#xa0;--system&#xa0;&#x9009;&#x9879;&#xff0c;&#x8bfb;&#x5199;&#x7684;&#x5c31;&#x662f;&#x8fd9;&#x4e2a;&#x6587;&#x4ef6;&#x3002; ~/.gitconfig&#xa0;&#x6587;&#x4ef6;&#xff1a;&#x7528;&#x6237;&#x76ee;&#x5f55;&#x4e0b;&#x7684;&#x914d;&#x7f6e;&#x6587;&#x4ef6;&#x53ea;&#x9002;&#x7528;&#x4e8e;&#x8be5;&#x7528;&#x6237;&#x3002;&#x82e5;&#x4f7f;&#x7528;&#xa0;git config&#xa0;&#x65f6;&#x7528;&#xa0;--global&#xa0;&#x9009;&#x9879;&#xff0c;&#x8bfb;&#x5199;&#x7684;&#x5c31;&#x662f;&#x8fd9;&#x4e2a;&#x6587;&#x4ef6;&#x3002; &#x5f53;&#x524d;&#x9879;&#x76ee;&#x7684; Git &#x76ee;&#x5f55;&#x4e2d;&#x7684;&#x914d;&#x7f6e;&#x6587;&#x4ef6;&#xff08;&#x4e5f;&#x5c31;&#x662f;&#x5de5;&#x4f5c;&#x76ee;&#x5f55;&#x4e2d;&#x7684;&#xa0;.git/config&#xa0;&#x6587;&#x4ef6;&#xff09;&#xff1a;&#x8fd9;&#x91cc;&#x7684;&#x914d;&#x7f6e;&#x4ec5;&#x4ec5;&#x9488;&#x5bf9;&#x5f53;&#x524d;&#x9879;&#x76ee;&#x6709;&#x6548;&#x3002;&#x6bcf;&#x4e00;&#x4e2a;&#x7ea7;&#x522b;&#x7684;&#x914d;&#x7f6e;&#x90fd;&#x4f1a;&#x8986;&#x76d6;&#x4e0a;&#x5c42;&#x7684;&#x76f8;&#x540c;&#x914d;&#x7f6e;&#xff0c;&#x6240;&#x4ee5;&#xa0;.git/config&#xa0;&#x91cc;&#x7684;&#x914d;&#x7f6e;&#x4f1a;&#x8986;&#x76d6;&#xa0;/etc/gitconfig&#xa0;&#x4e2d;&#x7684;&#x540c;&#x540d;&#x53d8;&#x91cf;&#x3002; &#x5728; Windows &#x7cfb;&#x7edf;&#x4e0a;&#xff0c;Git &#x4f1a;&#x627e;&#x5bfb;&#x7528;&#x6237;&#x4e3b;&#x76ee;&#x5f55;&#x4e0b;&#x7684;&#xa0;.gitconfig&#xa0;&#x6587;&#x4ef6;&#x3002;&#x4e3b;&#x76ee;&#x5f55;&#x5373;&#xa0;$HOME&#xa0;&#x53d8;&#x91cf;&#x6307;&#x5b9a;&#x7684;&#x76ee;&#x5f55;&#xff0c;&#x4e00;&#x822c;&#x90fd;&#x662f;&#xa0;C:\Documents and Settings\$USER&#x3002;&#x6b64;&#x5916;&#xff0c;Git &#x8fd8;&#x4f1a;&#x5c1d;&#x8bd5;&#x627e;&#x5bfb;&#xa0;/etc/gitconfig&#xa0;&#x6587;&#x4ef6;&#xff0c;&#x53ea;&#x4e0d;&#x8fc7;&#x770b;&#x5f53;&#x521d; Git &#x88c5;&#x5728;&#x4ec0;&#x4e48;&#x76ee;&#x5f55;&#xff0c;&#x5c31;&#x4ee5;&#x6b64;&#x4f5c;&#x4e3a;&#x6839;&#x76ee;&#x5f55;&#x6765;&#x5b9a;&#x4f4d;&#x3002;"/>
 </node>
-<node CREATED="1504192650818" FOLDED="true" ID="ID_1051957925" MODIFIED="1523330013691" POSITION="left" TEXT="&#x57fa;&#x7840;">
+<node CREATED="1504192650818" FOLDED="true" ID="ID_1051957925" MODIFIED="1525402331204" POSITION="left" TEXT="&#x57fa;&#x7840;">
 <node CREATED="1504193059090" ID="ID_960974942" MODIFIED="1504249415201" TEXT="git init&#xff1a;&#x7528;&#x5728;&#x975e;git&#x4ed3;&#x5e93;&#x4e2d;&#xff0c;&#x6267;&#x884c;&#x540e;&#x4f1a;&#x65b0;&#x5efa;&#x4e00;&#x4e2a;&#x7a7a;&#x4ed3;&#x5e93;&#xff0c;&#x76ee;&#x5f55;&#x4e0b;&#x7684;&#x5185;&#x5bb9;&#x9700;&#x8981;&#x5355;&#x72ec;&#x8ddf;&#x8e2a;&#xff08;&#x4f7f;&#x7528;git add&#xff09;&#x3002;&#x5982;&#x679c;&#x5728;&#x5df2;&#x6709;git&#x4ed3;&#x5e93;&#x4e2d;&#x6267;&#x884c;&#x8be5;&#x547d;&#x4ee4;&#x5219;&#x6ca1;&#x6709;&#x6548;&#x679c;&#xa;&#x8fd0;&#x8425;init&#x4e4b;&#x540e;&#xff0c;&#x4f1a;&#x521b;&#x5efa;&#x4e00;&#x4e2a;.git&#x76ee;&#x5f55;&#xff0c;&#x8be5;&#x76ee;&#x5f55;&#x91cc;&#x5b58;&#x653e;&#x7740;&#x4ed3;&#x5e93;&#x7684;&#x6240;&#x6709;&#x4fe1;&#x606f;&#xff0c;&#x5982;&#x679c;&#x8981;&#x5907;&#x4efd;&#x590d;&#x5236;&#x4e00;&#x4e2a;&#x5e93;&#xff0c;&#x628a;&#x8fd9;&#x4e2a;&#x76ee;&#x5f55;&#x590d;&#x5236;&#x8fc7;&#x53bb;&#x5c31;&#x597d;&#x4e86;"/>
 <node CREATED="1504193209511" ID="ID_443028233" MODIFIED="1504193674647" TEXT="git clone url [newName]&#xff1a;&#x5c06;&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;&#x514b;&#x9686;&#x5230;&#x672c;&#x5730;&#xff0c;&#x5982;&#x679c;&#x63d0;&#x4f9b;&#x4e86;[newName]&#xff0c;&#x5219;&#x514b;&#x9686;&#x51fa;&#x6765;&#x7684;&#x76ee;&#x5f55;&#x540d;&#x4f1a;&#x4f7f;&#x7528;[newName]"/>
 <node CREATED="1504229097564" ID="ID_1092032473" MODIFIED="1504230054555" TEXT="git status [-s]&#xff1a;&#x67e5;&#x770b;&#x4ed3;&#x5e93;&#x72b6;&#x6001;&#xff0c;&#x663e;&#x793a;&#x672a;&#x8ddf;&#x8e2a;&#x4ee5;&#x53ca;&#x672a;&#x63d0;&#x4ea4;&#x7684;&#x6587;&#x4ef6;&#xff0c;-s&#x53c2;&#x6570;&#x7528;&#x4e8e;&#x663e;&#x793a;&#x7b80;&#x7248;&#x7684;&#x72b6;&#x6001;&#x4fe1;&#x606f;"/>
@@ -283,8 +282,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504254822365" ID="ID_1656445874" MODIFIED="1523340990495" POSITION="left" TEXT="&#x5206;&#x652f;">
-<node CREATED="1504254829434" ID="ID_1215132058" MODIFIED="1523328203010">
+<node CREATED="1504254822365" FOLDED="true" ID="ID_1656445874" MODIFIED="1525676413801" POSITION="left" TEXT="&#x5206;&#x652f;">
+<node CREATED="1504254829434" ID="ID_1215132058" MODIFIED="1525675806793">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -300,7 +299,7 @@
       git checkout branch-name&#65306;&#20999;&#25442;&#20998;&#25903;&#65292;&#20999;&#25442;&#21518;&#23558;&#24037;&#20316;&#30446;&#24405;&#20013;&#30340;&#25991;&#20214;&#26356;&#25442;&#20026;&#26032;&#20998;&#25903;&#23545;&#24212;&#30340;&#25991;&#20214;&#24555;&#29031;
     </p>
     <p>
-      git branch -b branch-name&#65306;&#21019;&#24314;&#20998;&#25903;&#24182;&#20999;&#25442;&#36807;&#21435;
+      git checkout&#160;-b branch-name&#65306;&#21019;&#24314;&#20998;&#25903;&#24182;&#20999;&#25442;&#36807;&#21435;
     </p>
     <p>
       git branch -d branch-name&#65306;&#21024;&#38500;&#26412;&#22320;&#20179;&#24211;&#20998;&#25903;&#65292;&#19981;&#33021;&#21024;&#38500;&#24403;&#21069;&#20998;&#25903;&#65292;&#22914;&#26524;&#20998;&#25903;&#36824;&#26377;&#20462;&#25913;&#27809;&#26377;&#21512;&#20837;&#24403;&#21069;&#20998;&#25903;&#65292;&#21017;&#21024;&#38500;&#22833;&#36133;&#12290;
@@ -318,7 +317,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1504265190153" ID="ID_1284735198" MODIFIED="1504267579939">
+<node CREATED="1504265190153" ID="ID_1284735198" MODIFIED="1525402169588">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -351,11 +350,24 @@
     <p>
       &#27880;&#24847;&#65306;&#36319;&#20854;&#20182;&#20154;&#21512;&#20316;&#26102;&#65292;rebase&#19968;&#23450;&#35201;&#22312;&#25512;&#36865;&#21040;&#26381;&#21153;&#22120;&#20043;&#21069;&#20570;&#65292;&#22914;&#26524;&#25512;&#36865;&#21040;&#26381;&#21153;&#22120;&#20043;&#21518;&#20877;&#20570;rebase&#65292;&#21487;&#33021;&#20250;&#25226;&#20179;&#24211;&#30340;&#25552;&#20132;&#35760;&#24405;&#25630;&#28151;&#20081;&#65292;&#20250;&#20986;&#29616;&#21516;&#26679;&#30340;&#25552;&#20132;&#35760;&#24405;&#22810;&#27425;&#20986;&#29616;&#30340;&#24773;&#20917;
     </p>
+    <p>
+      4&#12289;git pull origin master
+    </p>
+    <p>
+      &#21462;&#20986;&#36828;&#31243;master&#20998;&#25903;&#65292;&#19982;&#24403;&#21069;&#20998;&#25903;&#36827;&#34892;&#21512;&#24182;&#65292;&#30456;&#24403;&#20110;
+    </p>
+    <p>
+      git fetch origin
+    </p>
+    <p>
+      git merge origin/master
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1510749370983" FOLDED="true" ID="ID_1968330959" MODIFIED="1520317586592" POSITION="left" TEXT="&#x5947;&#x6280;&#x6deb;&#x5de7;">
+<node CREATED="1510749370983" FOLDED="true" ID="ID_1968330959" MODIFIED="1525401570797" POSITION="left" TEXT="&#x5947;&#x6280;&#x6deb;&#x5de7;">
 <node CREATED="1510749386349" ID="ID_825614643" MODIFIED="1510752669284" TEXT="&amp;lt;html&amp;gt;&#xa;  &amp;lt;body&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#x5f7b;&amp;#x5e95;&amp;#x5220;&amp;#x9664;&amp;#x6587;&amp;#x4ef6;&amp;#xff08;&amp;#x5386;&amp;#x53f2;&amp;#x63d0;&amp;#x4ea4;&amp;#x4fe1;&amp;#x606f;&amp;#x4e00;&amp;#x8d77;&amp;#x5220;&amp;#x9664;&amp;#xff09;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      1&amp;#x3001;https://help.github.com/articles/removing-sensitive-data-from-a-repository/&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      2&amp;#x3001;git filter-branch&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;0&amp;#xff09;&amp;#x3001;&amp;#x91cd;&amp;#x8981;&amp;#x91cd;&amp;#x8981;&amp;#x91cd;&amp;#x8981;&amp;#xff1a;&amp;#x5148;&amp;#x5907;&amp;#x4efd;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;1&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e00;&amp;#x6b65;&amp;#x5220;&amp;#x9664;&amp;#x6240;&amp;#x6709;&amp;#x8bb0;&amp;#x5f55;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git filter-branch --force --index-filter \&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &apos;git rm --cached --ignore-unmatch &amp;#x6280;&amp;#x672f;&amp;#x7ad9;&amp;#x70b9;&amp;#x5efa;&amp;#x8bbe;.mm&apos; \&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      --prune-empty --tag-name-filter cat -- --all&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;2&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e8c;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git push origin --force --all&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;3&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e09;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git push origin --force --tags&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;4&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x56db;&amp;#x6b65;&amp;#xff0c;&amp;#x544a;&amp;#x8bc9;&amp;#x4f60;&amp;#x7684;&amp;#x5408;&amp;#x4f5c;&amp;#x8005;rebase&amp;#xff08;&amp;#x6ce8;&amp;#x610f;&amp;#x4e0d;&amp;#x662f;merge&amp;#xff09;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#x6ce8;&amp;#x610f;&amp;#xff0c;&amp;#x5982;&amp;#x679c;&amp;#x8fd9;&amp;#x4e2a;&amp;#x6587;&amp;#x4ef6;&amp;#x6709;&amp;#x79fb;&amp;#x52a8;&amp;#x8fc7;&amp;#x6216;&amp;#x8005;&amp;#x91cd;&amp;#x547d;&amp;#x540d;&amp;#x8fc7;&amp;#xff0c;&amp;#x90a3;&amp;#x4e48;&amp;#x5728;&amp;#x79fb;&amp;#x52a8;&amp;#x6216;&amp;#x8005;&amp;#x91cd;&amp;#x547d;&amp;#x540d;&amp;#x4e4b;&amp;#x524d;&amp;#x7684;&amp;#x8def;&amp;#x5f84;&amp;#x4e0a;&amp;#x4e5f;&amp;#x9700;&amp;#x8981;&amp;#x6267;&amp;#x884c;&amp;#x8fd9;&amp;#x4e2a;&amp;#x547d;&amp;#x4ee4;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      3&amp;#x3001;&amp;#x4f7f;&amp;#x7528;BFG &amp;lt;content ename=&amp;quot;content&amp;quot;&amp;gt;Repo-Cleaner&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;1&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e00;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git clone --mirror git://example.com/some-big-repo.git&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;2&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e8c;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      java -jar bfg.jar --delete-files id_{dsa,rsa} my-repo.git&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;3&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x4e09;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      cd some-big-repo.git &#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git reflog expire --expire=now --all &amp;amp;amp;&amp;amp;amp; git gc --prune=now --aggressive&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;4&amp;#xff09;&amp;#x3001;&amp;#x7b2c;&amp;#x56db;&amp;#x6b65;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      git push&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      4&amp;#x3001;&amp;#x5176;&amp;#x4ed6;&#xa;    &amp;lt;/p&amp;gt;&#xa;    &amp;lt;p&amp;gt;&#xa;      &amp;#xff08;1&amp;#xff09;&amp;#x3001;&amp;#x5c06;&amp;#x4e0d;&amp;#x80fd;&amp;#x63d0;&amp;#x4ea4;&amp;#x7684;&amp;#x6587;&amp;#x4ef6;&amp;#x52a0;&amp;#x5165;.gitignore&#xa;    &amp;lt;/p&amp;gt;&#xa;  &amp;lt;/body&amp;gt;&#xa;&amp;lt;/html&amp;gt;"/>
 </node>
 <node CREATED="1523330037784" ID="ID_284243533" MODIFIED="1523330047100" POSITION="left" TEXT="GIT&#x5de5;&#x5177;">
@@ -390,11 +402,10 @@
       git submodule update&#65306;&#20174;&#23376;&#27169;&#22359;&#20013;&#25289;&#21462;&#25152;&#26377;&#25968;&#25454;&#65292;&#21518;&#32493;&#20854;&#20182;&#20154;&#20462;&#25913;&#20102;&#23376;&#27169;&#22359;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1504248445449" FOLDED="true" ID="ID_1161418634" MODIFIED="1523330018453" POSITION="right" TEXT="&#x5185;&#x90e8;&#x539f;&#x7406;">
+<node CREATED="1504248445449" FOLDED="true" ID="ID_1161418634" MODIFIED="1525402341589" POSITION="right" TEXT="&#x5185;&#x90e8;&#x539f;&#x7406;">
 <node CREATED="1504250904008" ID="ID_1519304902" MODIFIED="1504250908970" TEXT="&#x5f15;&#x7528;"/>
 </node>
 </node>
