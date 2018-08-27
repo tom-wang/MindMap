@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1526540437196" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
+<node CREATED="1505706645333" ID="ID_810871137" MODIFIED="1534755856573" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
 <node CREATED="1505706725462" ID="ID_1498308317" MODIFIED="1505734515714">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1018,7 +1018,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1511181460422" FOLDED="true" ID="ID_1195938303" MODIFIED="1526461799196" POSITION="right">
+<node CREATED="1511181460422" ID="ID_1195938303" MODIFIED="1534755866988" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2239,8 +2239,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1524732562215" ID="ID_1188365749" MODIFIED="1526954378781" POSITION="right" TEXT="Redux">
-<node CREATED="1524816575525" FOLDED="true" ID="ID_174761253" MODIFIED="1526954381887" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1524732562215" FOLDED="true" ID="ID_1188365749" MODIFIED="1533116671174" POSITION="right" TEXT="Redux">
+<node CREATED="1524816575525" FOLDED="true" ID="ID_174761253" MODIFIED="1531390917186" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1524732569025" ID="ID_1752573410" MODIFIED="1524816872339">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2293,7 +2293,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1524817956774" FOLDED="true" ID="ID_706086607" MODIFIED="1526954383193" TEXT="&#x57fa;&#x7840;">
+<node CREATED="1524817956774" FOLDED="true" ID="ID_706086607" MODIFIED="1531390915180" TEXT="&#x57fa;&#x7840;">
 <node CREATED="1524817964941" ID="ID_202257207" MODIFIED="1524831220164">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2388,7 +2388,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1526954390626" ID="ID_985132713" MODIFIED="1526954396544" TEXT="Redux DevTools">
+<node CREATED="1526954390626" FOLDED="true" ID="ID_985132713" MODIFIED="1531390913049" TEXT="Redux DevTools">
 <node CREATED="1526954400255" ID="ID_494149977" MODIFIED="1526954779091">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2429,8 +2429,7 @@
       &#27809;&#26377;&#23433;&#35013;&#25554;&#20214;&#30340;&#21516;&#23398;&#25253;&#38169;&#24590;&#20040;&#21150;&#65311;&#20570;&#20010;&#21028;&#26029;&#21363;&#21487;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2452,8 +2451,7 @@
       2&#12289;&#20462;&#25913;package.json&#20013;&#21253;react-scripts&#30340;&#29256;&#26412;&#65292;&#28982;&#21518;&#36816;&#33829;npm install&#26469;&#23433;&#35013;&#23545;&#24212;&#30340;&#29256;&#26412;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526279273038" ID="ID_378786580" MODIFIED="1526279523368">
 <richcontent TYPE="NODE"><html>
@@ -2477,8 +2475,7 @@
       4&#12289;&#21487;&#20197;&#21019;&#24314;&#26356;&#22810;&#30340;&#19968;&#32423;&#30446;&#24405;&#65292;&#29983;&#20135;&#26500;&#24314;&#19981;&#20250;&#29992;&#21040;&#20182;&#20204;&#65292;&#20320;&#21487;&#20197;&#29992;&#23427;&#20204;&#25918;&#25991;&#26723;&#20043;&#31867;&#30340;&#19996;&#19996;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526281958874" ID="ID_107451608" MODIFIED="1526282477532">
 <richcontent TYPE="NODE"><html>
@@ -2505,8 +2502,7 @@
       &#25226;&#37197;&#32622;&#25991;&#20214;&#30452;&#25509;&#20174;react-scripts&#20013;&#25335;&#36125;&#20986;&#26469;&#65292;&#24320;&#21457;&#32773;&#21487;&#20197;&#33258;&#24049;&#36827;&#34892;&#35843;&#25972;&#12290;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526286534706" ID="ID_84831932" MODIFIED="1526286562038">
 <richcontent TYPE="NODE"><html>
@@ -2524,8 +2520,7 @@
       2&#12289;webstorm
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526287147242" ID="ID_903891671" MODIFIED="1526287195143">
 <richcontent TYPE="NODE"><html>
@@ -2546,8 +2541,7 @@
       3&#12289;&#20351;&#29992;react-helmet
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526287203700" ID="ID_788139919" MODIFIED="1526287227110">
 <richcontent TYPE="NODE"><html>
@@ -2562,8 +2556,7 @@
       1&#12289;&#20351;&#29992;npm install&#21363;&#21487;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1526287438645" ID="ID_499525040" MODIFIED="1526287690916">
 <richcontent TYPE="NODE"><html>
@@ -2581,8 +2574,34 @@
       2&#12289;&#19982;react-router&#32467;&#21512;&#20351;&#29992;&#30340;&#20195;&#30721;&#20998;&#21106;&#35265;&#25991;&#26723;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1527850705840" FOLDED="true" ID="ID_1134727443" MODIFIED="1531390900394" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#19994;&#30028;&#26415;&#35821;
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1527850720708" ID="ID_514436420" MODIFIED="1527850920943">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1&#12289;FSA&#65306;Flux Standard Action
+    </p>
+    <p>
+      &#38500;&#20102;type&#12289;payload&#12289;error&#12289;meta&#20043;&#22806;&#27809;&#26377;&#20854;&#20182;&#23646;&#24615;
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1510812635865" ID="ID_1466204335" MODIFIED="1518059672119" POSITION="left">
@@ -2612,23 +2631,46 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1526540445862" ID="ID_1203599986" MODIFIED="1526540546201" POSITION="left">
+<node CREATED="1526540445862" ID="ID_1203599986" MODIFIED="1532396145107" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#20351;&#29992;&#25216;&#24039;
+      &#23454;&#36341;&#25216;&#24039;
     </p>
     <p>
       1&#12289;&#19981;&#35201;&#23558;props&#26144;&#23556;&#20026;&#20869;&#37096;state&#65292;&#22914;&#26524;&#19968;&#23450;&#35201;&#36825;&#20040;&#20570;&#65292;&#38656;&#35201;&#22312;componentWillReceiveProps(nextProps)&#38057;&#23376;&#20013;&#37325;&#26032;&#35774;&#32622;state&#12290;
     </p>
+    <p>
+      2&#12289;&#20256;&#36882;props&#26368;&#22909;&#20351;&#29992;...&#36816;&#31639;&#31526;&#36879;&#20256;&#21040;&#23376;&#33410;&#28857;&#20013;&#21435;
+    </p>
+    <p>
+      &lt;SearchListComponent {...this.props} ref=&quot;target&quot; /&gt;
+    </p>
+    <p>
+      3&#12289;&#26041;&#27861;&#23646;&#24615;&#21517;&#22312;&#20256;&#36882;&#36807;&#31243;&#20013;&#19981;&#35201;&#21464;&#65292;&#21363;&#20351;&#20869;&#37096;&#35201;&#21253;&#35013;&#19968;&#19979;&#65292;&#20063;&#19981;&#35201;&#21464;&#21517;&#23383;
+    </p>
+    <p>
+      4&#12289;&#35302;&#21457;state&#21464;&#26356;&#38598;&#20013;&#22312;view&#23618;&#65292;&#32452;&#20214;&#20869;&#37096;&#19981;&#35201;&#21464;&#26356;state
+    </p>
+    <p>
+      5&#12289;&#38656;&#35201;&#32771;&#34385;&#21021;&#22987;&#29366;&#24577;&#65292;&#27604;&#22914;&#8220;&#20462;&#25913;&#8221;&#30340;&#26102;&#20505;&#38656;&#35201;load&#25968;&#25454;&#36827;&#34892;&#21021;&#22987;&#24577;&#35774;&#32622;
+    </p>
+    <p>
+      6&#12289;&#24910;&#29992;shouldComponentUpdate
+    </p>
+    <p>
+      7&#12289;redux&#20013;&#30340;&#25968;&#25454;&#22914;&#26524;&#26159;&#24341;&#29992;&#31867;&#22411;&#65288;&#23545;&#35937;&#25110;&#25968;&#32452;&#65289;&#65292;&#26356;&#26032;&#26102;&#38656;&#35201;&#35774;&#32622;&#19968;&#20010;&#26032;&#30340;&#23545;&#35937;&#25110;&#25968;&#32452;
+    </p>
+    <p>
+      8&#12289;
+    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1512576998032" FOLDED="true" ID="ID_1065426133" MODIFIED="1524901885263" POSITION="left" TEXT="&#x6e90;&#x7801;">
+<node CREATED="1512576998032" FOLDED="true" ID="ID_1065426133" MODIFIED="1533027979723" POSITION="left" TEXT="&#x6e90;&#x7801;">
 <node CREATED="1512577003239" ID="ID_1567298764" MODIFIED="1518059625438">
 <richcontent TYPE="NODE"><html>
   <head>
