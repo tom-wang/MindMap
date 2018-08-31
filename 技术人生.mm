@@ -307,7 +307,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1516243837906" FOLDED="true" ID="ID_55839218" MODIFIED="1531785788004" POSITION="right" TEXT="&#x6280;&#x672f;&#x7b54;&#x8fa9;">
+<node CREATED="1516243837906" FOLDED="true" ID="ID_55839218" MODIFIED="1535615123096" POSITION="right" TEXT="&#x6280;&#x672f;&#x7b54;&#x8fa9;">
 <node CREATED="1516243847789" ID="ID_488366643" MODIFIED="1519644689643">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -336,7 +336,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1514337755054" FOLDED="true" ID="ID_447413605" MODIFIED="1534248831385" POSITION="right" TEXT="&#x6280;&#x672f;&#x62db;&#x8058;">
+<node CREATED="1514337755054" ID="ID_447413605" MODIFIED="1535615120037" POSITION="right" TEXT="&#x6280;&#x672f;&#x62db;&#x8058;">
 <node CREATED="1514865512594" ID="ID_934223177" MODIFIED="1514879695196">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3479,7 +3479,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1511926018369" FOLDED="true" ID="ID_338885100" MODIFIED="1534248835142" POSITION="left" TEXT="&#x7f16;&#x7801;">
+<node CREATED="1511926018369" ID="ID_338885100" MODIFIED="1535618634619" POSITION="left" TEXT="&#x7f16;&#x7801;">
 <node CREATED="1511926026181" ID="ID_1959615236" MODIFIED="1511926272327">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4699,7 +4699,7 @@
 <node CREATED="1512136082105" ID="ID_1294102542" MODIFIED="1512136083552" TEXT="travis-ci"/>
 <node CREATED="1526295685089" ID="ID_503785051" MODIFIED="1526295688212" TEXT="Jenkins"/>
 </node>
-<node CREATED="1513598734354" ID="ID_1338227067" MODIFIED="1534667400637" POSITION="left" TEXT="&#x4ee3;&#x7801;&#x8986;&#x76d6;&#x7387;">
+<node CREATED="1513598734354" FOLDED="true" ID="ID_1338227067" MODIFIED="1535615126377" POSITION="left" TEXT="&#x4ee3;&#x7801;&#x8986;&#x76d6;&#x7387;">
 <node CREATED="1513599859102" ID="ID_774060173" MODIFIED="1513600033001">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4719,7 +4719,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1534248865080" ID="ID_1531807073" MODIFIED="1534684261116" POSITION="left" TEXT="&#x81ea;&#x52a8;&#x5316;&#x6d4b;&#x8bd5;">
+<node CREATED="1534248865080" FOLDED="true" ID="ID_1531807073" MODIFIED="1535615128648" POSITION="left" TEXT="&#x81ea;&#x52a8;&#x5316;&#x6d4b;&#x8bd5;">
 <node CREATED="1534248871977" ID="ID_1811560603" MODIFIED="1534665579486" TEXT="jest">
 <node CREATED="1534248898627" ID="ID_1422728228" MODIFIED="1534250621087">
 <richcontent TYPE="NODE"><html>
@@ -4791,8 +4791,7 @@
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534250694939" ID="ID_123341315" MODIFIED="1534250906781">
 <richcontent TYPE="NODE"><html>
@@ -4822,8 +4821,7 @@
       &#20840;&#37096;Matcher&#35831;&#26597;&#30475;&#21015;&#34920;https://jestjs.io/docs/en/expect
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534251216128" ID="ID_179802091" MODIFIED="1534251885580">
 <richcontent TYPE="NODE"><html>
@@ -4868,8 +4866,7 @@
       &#20108;&#12289;Promise&#12289;Async/Await&#20195;&#30721;&#37117;&#21487;&#20197;&#36827;&#34892;&#27979;&#35797;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534251906522" ID="ID_635847753" MODIFIED="1534397738089">
 <richcontent TYPE="NODE"><html>
@@ -5103,8 +5100,7 @@
       &#22914;&#26524;&#29992;&#20363;&#36305;&#22833;&#36133;&#20102;&#65292;&#25105;&#20204;&#39318;&#20808;&#30475;&#19979;&#21333;&#29420;&#36305;&#36825;&#20010;&#29992;&#20363;&#30340;&#26102;&#20505;&#20250;&#19981;&#20250;&#22833;&#36133;&#65292;&#20570;&#27861;&#26159;&#23558;test&#25913;&#20026;test.only
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534397741560" ID="ID_1674350182" MODIFIED="1534402312024">
 <richcontent TYPE="NODE"><html>
@@ -5335,8 +5331,7 @@
       &#160;&#160;.mockName('add42');
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534402318957" ID="ID_1384969833" MODIFIED="1534402369776">
 <richcontent TYPE="NODE"><html>
@@ -5351,8 +5346,7 @@
       &#19968;&#12289;&#21487;&#20197;&#20351;&#29992;Jest&#20013;&#30340;&#29420;&#31435;&#29305;&#24615;&#65292;Jest&#23553;&#35013;&#20102;&#19968;&#37096;&#20998;&#21333;&#29420;&#30340;package&#65292;&#20320;&#21487;&#20197;&#21333;&#29420;&#24341;&#20837;&#23427;&#20204;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534420427411" ID="ID_648236025" MODIFIED="1534420485930">
 <richcontent TYPE="NODE"><html>
@@ -5382,8 +5376,7 @@
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534418163735" ID="ID_1360818974" MODIFIED="1534420422456">
 <richcontent TYPE="NODE"><html>
@@ -5413,8 +5406,7 @@
       2&#12289;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1534248893757" ID="ID_765150660" MODIFIED="1534248893757" TEXT=""/>
