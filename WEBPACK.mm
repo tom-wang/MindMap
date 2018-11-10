@@ -2211,7 +2211,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1504402960408" FOLDED="true" ID="ID_334080456" MODIFIED="1521785129666" POSITION="left" TEXT="&#x52a0;&#x8f7d;&#x5668;Loader">
+<node CREATED="1504402960408" ID="ID_334080456" MODIFIED="1535714307505" POSITION="left" TEXT="&#x52a0;&#x8f7d;&#x5668;Loader">
 <node CREATED="1504403012094" ID="ID_355786627" MODIFIED="1504403013648" TEXT="loader &#x7528;&#x4e8e;&#x5bf9;&#x6a21;&#x5757;&#x7684;&#x6e90;&#x4ee3;&#x7801;&#x8fdb;&#x884c;&#x8f6c;&#x6362;&#x3002;loader &#x53ef;&#x4ee5;&#x4f7f;&#x4f60;&#x5728; import &#x6216;&quot;&#x52a0;&#x8f7d;&quot;&#x6a21;&#x5757;&#x65f6;&#x9884;&#x5904;&#x7406;&#x6587;&#x4ef6;&#x3002;&#x56e0;&#x6b64;&#xff0c;loader &#x7c7b;&#x4f3c;&#x4e8e;&#x5176;&#x4ed6;&#x6784;&#x5efa;&#x5de5;&#x5177;&#x4e2d;&#x201c;&#x4efb;&#x52a1;(task)&#x201d;&#xff0c;&#x5e76;&#x63d0;&#x4f9b;&#x4e86;&#x5904;&#x7406;&#x524d;&#x7aef;&#x6784;&#x5efa;&#x6b65;&#x9aa4;&#x7684;&#x5f3a;&#x5927;&#x65b9;&#x6cd5;&#x3002;loader &#x53ef;&#x4ee5;&#x5c06;&#x6587;&#x4ef6;&#x4ece;&#x4e0d;&#x540c;&#x7684;&#x8bed;&#x8a00;&#xff08;&#x5982; TypeScript&#xff09;&#x8f6c;&#x6362;&#x4e3a; JavaScript&#xff0c;&#x6216;&#x5c06;&#x5185;&#x8054;&#x56fe;&#x50cf;&#x8f6c;&#x6362;&#x4e3a; data URL&#x3002;loader &#x751a;&#x81f3;&#x5141;&#x8bb8;&#x4f60;&#x76f4;&#x63a5;&#x5728; JavaScript &#x6a21;&#x5757;&#x4e2d; import CSS&#x6587;&#x4ef6;&#xff01;"/>
 <node CREATED="1504403070518" ID="ID_1195860931" MODIFIED="1504403385349">
 <richcontent TYPE="NODE"><html>
