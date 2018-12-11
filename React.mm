@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1537281358950" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
+<node CREATED="1505706645333" FOLDED="true" ID="ID_810871137" MODIFIED="1544455526687" POSITION="right" TEXT="&#x5feb;&#x901f;&#x5f00;&#x59cb;">
 <node CREATED="1505706725462" ID="ID_1498308317" MODIFIED="1505734515714">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1018,7 +1018,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1511181460422" FOLDED="true" ID="ID_1195938303" MODIFIED="1541142449145" POSITION="right">
+<node CREATED="1511181460422" FOLDED="true" ID="ID_1195938303" MODIFIED="1543938482510" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2514,8 +2514,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1524732562215" ID="ID_1188365749" MODIFIED="1541505757362" POSITION="right" TEXT="Redux">
-<node CREATED="1538385581186" FOLDED="true" ID="ID_1297279110" MODIFIED="1540383309332" TEXT="&#x81ea;&#x8ff0;">
+<node CREATED="1524732562215" ID="ID_1188365749" MODIFIED="1544505933003" POSITION="right" TEXT="Redux">
+<node CREATED="1538385581186" FOLDED="true" ID="ID_1297279110" MODIFIED="1542180273379" TEXT="&#x81ea;&#x8ff0;">
 <node CREATED="1538385590783" ID="ID_765741199" MODIFIED="1538385833492">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2532,7 +2532,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1524816575525" FOLDED="true" ID="ID_174761253" MODIFIED="1540383308307" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1524816575525" FOLDED="true" ID="ID_174761253" MODIFIED="1542180295808" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1524732569025" ID="ID_1752573410" MODIFIED="1524816872339">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2585,7 +2585,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1524817956774" FOLDED="true" ID="ID_706086607" MODIFIED="1541505768122" TEXT="&#x57fa;&#x7840;">
+<node CREATED="1524817956774" FOLDED="true" ID="ID_706086607" MODIFIED="1542180267193" TEXT="&#x57fa;&#x7840;">
 <node CREATED="1524817964941" ID="ID_202257207" MODIFIED="1538389020985">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2736,7 +2736,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1540383315048" ID="ID_1948649604" MODIFIED="1541505772568" TEXT="&#x6e90;&#x7801;">
+<node CREATED="1540383315048" ID="ID_1948649604" MODIFIED="1544505939129" TEXT="&#x6e90;&#x7801;">
 <node CREATED="1540384295415" ID="ID_946836096" MODIFIED="1540482319145">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2818,7 +2818,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1540481259981" ID="ID_403164962" MODIFIED="1540520756080">
+<node CREATED="1540481259981" ID="ID_403164962" MODIFIED="1544506110044">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2834,13 +2834,47 @@
       2&#12289;middleware&#35843;&#29992;&#21518;&#36820;&#22238;&#19968;&#20010;&#26032;&#30340;&#20989;&#25968;&#65292;&#25191;&#34892;&#35813;&#20989;&#25968;&#26102;&#20256;&#36882;&#32473;&#23427;&#30340;&#21442;&#25968;&#26159;store.dispatch&#12290;
     </p>
     <p>
-      2&#12289;&#20351;&#29992;Redux&#30340;applyMiddleware&#21487;&#20197;&#23558;&#22810;&#20010;middleware&#32452;&#21512;&#36215;&#26469;
+      2&#12289;&#20351;&#29992;Redux&#30340;applyMiddleware(m1, m2, ...)&#21487;&#20197;&#23558;&#22810;&#20010;middleware&#32452;&#21512;&#36215;&#26469;&#65292;&#25191;&#34892;&#26102;&#21069;&#38754;&#30340;middleware&#20808;&#22788;&#29702;
     </p>
     <p>
-      3&#12289;
+      3&#12289;&#19968;&#20010;&#20363;&#23376;
+    </p>
+    <p>
+      export default function (_ref) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;var dispatch = _ref.dispatch,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;getState = _ref.getState;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;return function (next) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return function (action) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;console.log('middleware2', JSON.stringify(action))
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return next(action);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;};
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;};
+    </p>
+    <p>
+      };
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1540387106010" ID="ID_791460262" MODIFIED="1540645294629">
 <richcontent TYPE="NODE"><html>
@@ -3035,7 +3069,244 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1510812635865" ID="ID_1466204335" MODIFIED="1518059672119" POSITION="left">
+<node CREATED="1543840797787" FOLDED="true" ID="ID_378898394" MODIFIED="1544505987544" POSITION="right" TEXT="&#x65b0;&#x7248;&#x672c;&#x65b0;&#x7279;&#x6027;">
+<node CREATED="1543841648602" ID="ID_1191347329" MODIFIED="1544068999172">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      16.x&#65288;2019-Q1&#65289;
+    </p>
+    <p>
+      1&#12289;Hooks
+    </p>
+    <p>
+      http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/
+    </p>
+    <p>
+      https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
+    </p>
+    <p>
+      Hooks are functions that let you &#8220;hook into&#8221; React state and lifecycle features from function components.
+    </p>
+    <p>
+      Hooks&#25552;&#20379;&#22312;Function&#32452;&#20214;&#20013;&#20351;&#29992;&#29366;&#24577;&#21644;&#29983;&#21629;&#21608;&#26399;&#20989;&#25968;&#30340;&#33021;&#21147;
+    </p>
+    <p>
+      &#65288;1&#65289;&#12289;&#23427;&#35299;&#20915;&#30340;&#38382;&#39064;
+    </p>
+    <p>
+      render props&#21644;HOC&#24102;&#26469;&#30340;&#23884;&#22871;&#22320;&#22495;&#65288;wrapper hell&#65289;
+    </p>
+    <p>
+      class&#20013;&#26377;&#29366;&#24577;&#30340;&#36923;&#36753;&#38590;&#37325;&#29992;&#30340;&#38382;&#39064;&#65292;class&#20013;&#20351;&#29992;render props&#21644;HOC&#26469;&#35299;&#20915;
+    </p>
+    <p>
+      &#65288;2&#65289;&#12289;&#23427;&#24102;&#26469;&#30340;&#38382;&#39064;
+    </p>
+    <p>
+      &#20195;&#30721;&#22823;&#23567;&#65306;Hooks&#22686;&#37327;1.5k&#65292;&#19981;&#36807;Hooks&#32534;&#20889;&#30340;&#32452;&#20214;&#27604;class&#32452;&#20214;&#20307;&#31215;&#35201;&#19979;
+    </p>
+    <p>
+      useState&#22312;&#27599;&#27425;render&#26102;&#25191;&#34892;&#39034;&#24207;&#24517;&#39035;&#20445;&#25345;&#19968;&#33268;&#65292;&#19981;&#35201;&#25918;&#22312;if&#20998;&#25903;&#30340;&#24773;&#20917;&#12290;&#21363;&#65292;&#21482;&#33021;&#22312;&#39030;&#23618;&#35843;&#29992;Hooks&#65292;&#19981;&#35201;&#22312;&#24490;&#29615;&#12289;&#26465;&#20214;&#20998;&#25903;&#12289;&#20869;&#23884;&#20989;&#25968;&#20013;&#35843;&#29992;Hooks
+    </p>
+    <p>
+      &#27809;&#26377;shouldComponentUpdate&#25903;&#25345;
+    </p>
+    <p>
+      &#65288;3&#65289;&#12289;&#33258;&#23450;&#20041;Hooks
+    </p>
+    <p>
+      &#20197;use&#24320;&#22836;&#30340;&#20989;&#25968;&#65292;&#37324;&#38754;&#35843;&#29992;&#20854;&#20182;Hooks
+    </p>
+    <p>
+      import { useState, useEffect } from 'react';
+    </p>
+    <p>
+      // &#33258;&#23450;&#20041;Hook
+    </p>
+    <p>
+      function useFriendStatus(friendID) {
+    </p>
+    <p>
+      &#160;&#160;const [isOnline, setIsOnline] = useState(null);
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;function handleStatusChange(status) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;setIsOnline(status.isOnline);
+    </p>
+    <p>
+      &#160;&#160;}
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;useEffect(() =&gt; {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;ChatAPI.subscribeToFriendStatus(friendID, handleStatusChange);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;return () =&gt; {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;ChatAPI.unsubscribeFromFriendStatus(friendID, handleStatusChange);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;};
+    </p>
+    <p>
+      &#160;&#160;});
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;return isOnline;
+    </p>
+    <p>
+      }
+    </p>
+    <p>
+      //&#20351;&#29992;&#19968;
+    </p>
+    <p>
+      function FriendStatus(props) {
+    </p>
+    <p>
+      &#160;&#160;const isOnline = useFriendStatus(props.friend.id);
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;if (isOnline === null) {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;return 'Loading...';
+    </p>
+    <p>
+      &#160;&#160;}
+    </p>
+    <p>
+      &#160;&#160;return isOnline ? 'Online' : 'Offline';
+    </p>
+    <p>
+      }
+    </p>
+    <p>
+      //&#20351;&#29992;&#20108;
+    </p>
+    <p>
+      function FriendListItem(props) {
+    </p>
+    <p>
+      &#160;&#160;const isOnline = useFriendStatus(props.friend.id);
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;return (
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;li style={{ color: isOnline ? 'green' : 'black' }}&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;{props.friend.name}
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&lt;/li&gt;
+    </p>
+    <p>
+      &#160;&#160;);
+    </p>
+    <p>
+      }
+    </p>
+    <p>
+      &#65288;4&#65289;&#12289;Hooks&#21015;&#34920;
+    </p>
+    <p>
+      useState
+    </p>
+    <p>
+      &#35821;&#27861;&#65306;const [state, setState] = useState(initialState);
+    </p>
+    <p>
+      &#32452;&#20214;&#21021;&#22987;&#28210;&#26579;&#26102;state&#30340;&#20540;&#26159;initialState
+    </p>
+    <p>
+      &#35843;&#29992;setState(newState)&#36827;&#34892;&#26356;&#26032;&#65292;&#20250;&#35302;&#21457;&#32452;&#20214;render
+    </p>
+    <p>
+      &#22914;&#26524;&#26032;&#29366;&#24577;&#26159;&#36890;&#36807;&#21069;&#19968;&#20010;&#29366;&#24577;&#35745;&#31639;&#24471;&#26469;&#30340;&#65292;&#21017;&#21487;&#20197;&#20256;&#19968;&#20010;&#20989;&#25968;&#32473;setState&#65292;setState(preState=&gt;{return preState+1})
+    </p>
+    <p>
+      &#19982;class&#32452;&#20214;setState&#19981;&#21516;&#65292;useState&#19981;&#20250;&#21512;&#24182;&#26356;&#26032;
+    </p>
+    <p>
+      initialState&#21482;&#22312;&#21021;&#22987;&#28210;&#26579;&#26102;&#20351;&#29992;&#65292;&#22914;&#26524;&#35745;&#31639;initialState&#30340;&#36923;&#36753;&#24456;&#32791;&#26102;&#65292;&#21487;&#20197;&#23558;&#20854;&#25351;&#23450;&#20026;&#19968;&#20010;&#20989;&#25968;&#65292;&#36825;&#26679;React&#20250;&#30830;&#20445;&#35813;&#20989;&#25968;&#21482;&#22312;&#21021;&#22987;&#28210;&#26579;&#26102;&#25191;&#34892;&#65306;useState(() =&gt; {&#35745;&#31639;initialState&#24182;&#36820;&#22238;})
+    </p>
+    <p>
+      useEffect
+    </p>
+    <p>
+      &#35821;&#27861;&#65306;useEffect(didUpdate)
+    </p>
+    <p>
+      didUpdate&#20250;&#22312;&#27599;&#19968;&#27425;&#26356;&#26032;&#35745;&#31639;&#21518;&#21363;&#23558;&#25191;&#34892;&#21069;&#35843;&#29992;
+    </p>
+    <p>
+      didUpdate&#25191;&#34892;&#21518;&#21487;&#20197;&#36820;&#22238;&#19968;&#20010;&#20989;&#25968;&#65292;&#35813;&#20989;&#25968;&#20250;&#22312;&#32452;&#20214;&#21368;&#36733;&#26102;&#25191;&#34892;
+    </p>
+    <p>
+      useReducer
+    </p>
+    <p>
+      useContext
+    </p>
+    <p>
+      &#35821;&#27861;&#65306;const context = useContext(Context)
+    </p>
+    <p>
+      Context&#26159;&#36890;&#36807;React.createContext&#21019;&#24314;&#30340;&#19978;&#19979;&#25991;&#23545;&#35937;
+    </p>
+    <p>
+      &#24403;Context&#30340;Privider&#21464;&#21270;&#20250;&#23548;&#33268;&#35813;Hook&#35302;&#21457;&#32452;&#20214;&#26356;&#26032;
+    </p>
+    <p>
+      useCallback
+    </p>
+    <p>
+      useMemo
+    </p>
+    <p>
+      useRef
+    </p>
+    <p>
+      useImperativeMethods
+    </p>
+    <p>
+      useLayoutEffect
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1544455492864" ID="ID_1064183459" MODIFIED="1544455496627" POSITION="right" TEXT="&#x597d;&#x6587;&#x7ae0;">
+<node CREATED="1544455504998" ID="ID_268761692" MODIFIED="1544455507488" TEXT="https://overreacted.io/how-does-setstate-know-what-to-do/"/>
+</node>
+<node CREATED="1510812635865" ID="ID_1466204335" MODIFIED="1544455733508" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3048,7 +3319,7 @@
       1&#12289;react&#12289;react-dom&#26159;&#20160;&#20040;&#65311;
     </p>
     <p>
-      &#30456;&#24403;&#20110;Vue&#20013;&#30340;runtime&#21644;compiler&#30340;&#20851;&#31995;
+      &#30456;&#24403;&#20110;Vue&#20013;&#30340;runtime&#21644;compiler&#30340;&#20851;&#31995;&#65292;&#21151;&#33021;&#20195;&#30721;&#22312;react&#21253;&#20013;&#65292;&#19982;&#24179;&#21488;&#30456;&#20851;&#30340;&#20195;&#30721;&#25918;&#22312;react-dom&#12289;react-native&#31561;&#31561;&#20013;&#65292;&#21483;&#20570;reconciler&#12290;reconciler&#36890;&#36807;&#20381;&#36182;&#27880;&#20837;&#23558;&#21151;&#33021;&#27880;&#20837;&#21040;react&#20013;&#65292;&#27604;&#22914;setState&#25509;&#21475;&#22312;react&#20013;&#65292;&#35843;&#29992;&#23427;&#20043;&#21518;&#65292;&#21482;&#26159;&#23558;&#21464;&#26356;&#30340;&#29366;&#24577;&#20256;&#36882;&#32473;updater&#65292;updater&#23601;&#26159;react-dom&#36890;&#36807;&#20381;&#36182;&#27880;&#20837;&#27880;&#20837;&#21040;react&#20013;&#30340;&#12290;
     </p>
     <p>
       2&#12289;JSX&#26159;&#24590;&#20040;&#35299;&#26512;&#30340;&#65311;
@@ -3060,7 +3331,8 @@
       &#26159;&#30340;&#65292;&#31867;&#20284;Vue&#30340;data-server-rendered&#23646;&#24615;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1526540445862" ID="ID_1203599986" MODIFIED="1541750701965" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -3129,8 +3401,7 @@
       )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1512576998032" ID="ID_1065426133" MODIFIED="1540629417007" POSITION="left" TEXT="&#x6e90;&#x7801;">
 <node CREATED="1512577003239" FOLDED="true" ID="ID_1567298764" MODIFIED="1540629497218">
